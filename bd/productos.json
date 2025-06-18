@@ -1,0 +1,1190 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Carne picada",
+      "marca": "Carnes Argentinas",
+      "precio": 2346,
+      "categoria": "carnes",
+      "codigo_barra": "779746656615",
+      "tipo": "",
+      "atributos": [
+        "vegano",
+        "apto diabéticos"
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Jugo",
+      "marca": "Tang",
+      "precio": "300",
+      "categoria": "bebidas",
+      "codigo_barra": "779701940021",
+      "tipo": "multifruta",
+      "atributos": [
+        "bajo sodio",
+        "sin TACC"
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Crema",
+      "marca": "Tregar",
+      "precio": 1965,
+      "categoria": "lácteos",      
+      "codigo_barra": "779231101116",
+      "tipo": "",
+      "atributos": [
+        "sin TACC",
+        "bajo sodio"
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Dulce de leche",
+      "marca": "San Ignacio",
+      "precio": 353,
+      "categoria": "dulces",
+      "codigo_barra": "779631697191",
+      "tipo": "clásico",
+      "atributos": [
+        "sin TACC",
+        "orgánico"
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Agua",
+      "marca": "Glaciar",
+      "precio": 1794,
+      "categoria": "bebidas",
+      "codigo_barra": "779231064070",
+      "tipo": "",
+      "atributos": [
+        "bajo sodio",
+        "sin TACC"
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Pollo",
+      "marca": "Paty",
+      "precio": 909,
+      "categoria": "carnes",
+      "codigo_barra": "779901942931",
+      "tipo": "",
+      "atributos": []
+    },
+    {
+      "id": 7,
+      "nombre": "Salchichas",
+      "marca": "Paladini",
+      "precio": 852,
+      "categoria": "carnes",
+      "codigo_barra": "779857947863",
+      "tipo": "",
+      "atributos": [
+        "sin TACC",
+        "vegano"
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "Zanahorias",
+      "marca": "Frutas del Valle",
+      "precio": 2007,
+      "categoria": "verduras",      
+      "codigo_barra": "779366058762",
+      "tipo": "",
+      "atributos": [
+        "orgánico"
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "Crema",
+      "marca": "Tregar",
+      "precio": 2445,
+      "categoria": "lácteos",      
+      "codigo_barra": "779293957972",
+      "tipo": "",
+      "atributos": []
+    },
+    {
+      "id": 10,
+      "nombre": "Agua",
+      "marca": "Eco de los Andes",
+      "precio": 557,
+      "categoria": "bebidas",      
+      "codigo_barra": "779706466809",
+      "tipo": "",
+      "atributos": [
+        "sin TACC",
+        "orgánico"
+      ]
+    },
+    {
+      "id": 11,
+      "nombre": "Yerba mate",
+      "marca": "Taragüi",
+      "precio": 396,
+      "categoria": "despensa",      
+      "codigo_barra": "779659429729",
+      "tipo": "sin palo",
+      "atributos": [
+        "vegano"
+      ]
+    },
+    {
+      "id": 12,
+      "nombre": "Vino",
+      "marca": "Estancia Mendoza",
+      "precio": 2586,
+      "categoria": "bebidas alcohólicas",
+      "codigo_barra": "779188272992",
+      "tipo": "",
+      "atributos": []
+    },
+    {
+      "id": 13,
+      "nombre": "Arroz",
+      "marca": "Molinos Río de la Plata",
+      "precio": 353,
+      "categoria": "despensa",      
+      "codigo_barra": "779743089221",
+      "tipo": "parboil",
+      "atributos": []
+    },
+    {
+      "id": 14,
+      "nombre": "Leche",
+      "marca": "Sancor",
+      "precio": 987,
+      "categoria": "lácteos",
+      "codigo_barra": "779290416304",
+      "tipo": "descremada",
+      "atributos": []
+    },
+    {
+      "id": 15,
+      "nombre": "Gaseosa",
+      "marca": "Manaos",
+      "precio": 2663,
+      "categoria": "bebidas",
+      "codigo_barra": "779136276264",
+      "tipo": "",
+      "atributos": [
+        "vegano",
+        "apto diabéticos"
+      ]
+    },
+    {
+      "id": 16,
+      "nombre": "Dulce de leche",
+      "marca": "San Ignacio",
+      "precio": 2128,
+      "categoria": "dulces",      
+      "codigo_barra": "779413733382",
+      "tipo": "clásico",
+      "atributos": [
+        "sin TACC"
+      ]
+    },
+    {
+      "id": 17,
+      "nombre": "Manzanas",
+      "marca": "Frutas del Valle",
+      "precio": 648,
+      "categoria": "frutas",      
+      "codigo_barra": "779203222399",
+      "tipo": "",
+      "atributos": [
+        "sin TACC",
+        "vegano"
+      ]
+    },
+    {
+      "id": 18,
+      "nombre": "Cerveza",
+      "marca": "Andes",
+      "precio": 2314,
+      "categoria": "bebidas alcohólicas",      
+      "codigo_barra": "779271361223",
+      "tipo": "",
+      "atributos": []
+    },
+    {
+      "id": 19,
+      "nombre": "Agua",
+      "marca": "Glaciar",
+      "precio": 2739,
+      "categoria": "bebidas",
+      "codigo_barra": "779717574653",
+      "tipo": "",
+      "atributos": [
+        "vegano"
+      ]
+    },
+    {
+      "id": 20,
+      "nombre": "Leche",
+      "marca": "Ilolay",
+      "precio": 1368,
+      "categoria": "lácteos",
+      "codigo_barra": "779715618357",
+      "tipo": "descremada",
+      "atributos": [
+        "apto diabéticos",
+        "vegano"
+      ]
+    },
+    {
+      "id": 21,
+      "nombre": "Café",
+      "marca": "Arlistán",
+      "precio": 2747,
+      "categoria": "despensa",      
+      "codigo_barra": "779450671690",
+      "tipo": "",
+      "atributos": [
+        "sin TACC"
+      ]
+    },
+    {
+      "id": 22,
+      "nombre": "Papas",
+      "marca": "Campo Claro",
+      "precio": 2181,
+      "categoria": "verduras",      
+      "codigo_barra": "779209821914",
+      "tipo": "",
+      "atributos": [
+        "orgánico"
+      ]
+    },
+    {
+      "id": 23,
+      "nombre": "Té",
+      "marca": "La Virginia",
+      "precio": 846,
+      "categoria": "despensa",      
+      "codigo_barra": "779877910397",
+      "tipo": "",
+      "atributos": [
+        "vegano"
+      ]
+    },
+    {
+      "id": 24,
+      "nombre": "Papas",
+      "marca": "Campo Claro",
+      "precio": 2290,
+      "categoria": "verduras",      
+      "codigo_barra": "779937806923",
+      "tipo": "",
+      "atributos": [
+        "apto diabéticos",
+        "vegano"
+      ]
+    },
+    {
+      "id": 25,
+      "nombre": "Papas",
+      "marca": "Frutas del Valle",
+      "precio": 1338,
+      "categoria": "verduras",
+      "codigo_barra": "779596253061",
+      "tipo": "",
+      "atributos": []
+    },
+    {
+      "id": 26,
+      "nombre": "Pan",
+      "marca": "Bimbo",
+      "precio": 2001,
+      "categoria": "panificados",
+      "codigo_barra": "779227710098",
+      "tipo": "lactal",
+      "atributos": [
+        "bajo sodio",
+        "orgánico"
+      ]
+    },
+    {
+      "id": 27,
+      "nombre": "Vino",
+      "marca": "Trapiche",
+      "precio": 1848,
+      "categoria": "bebidas alcohólicas",
+      "codigo_barra": "779888963228",
+      "tipo": "",
+      "atributos": []
+    },
+    {
+      "id": 28,
+      "nombre": "Pollo",
+      "marca": "Paty",
+      "precio": 2076,
+      "categoria": "carnes",      
+      "codigo_barra": "779817617265",
+      "tipo": "",
+      "atributos": [
+        "sin TACC"
+      ]
+    },
+    {
+      "id": 29,
+      "nombre": "Café",
+      "marca": "Nescafé",
+      "precio": 557,
+      "categoria": "despensa",      
+      "codigo_barra": "779909691407",
+      "tipo": "",
+      "atributos": []
+    },
+    {
+      "id": 30,
+      "nombre": "Queso",
+      "marca": "Tregar",
+      "precio": 760,
+      "categoria": "lácteos",     
+      "codigo_barra": "779738142588",
+      "tipo": "untable",
+      "atributos": [
+        "vegano"
+      ]
+    },
+    {
+      "id": 31,
+      "nombre": "Arroz",
+      "marca": "Gallo",
+      "precio": 2233,
+      "categoria": "despensa",
+      "codigo_barra": "779408590386",
+      "tipo": "largo fino",
+      "atributos": []
+    },
+    {
+      "id": 32,
+      "nombre": "Papas",
+      "marca": "Frutas del Valle",
+      "precio": 305,
+      "categoria": "verduras",
+      "codigo_barra": "779448871831",
+      "tipo": "",
+      "atributos": [
+        "orgánico"
+      ]
+    },
+    {
+      "id": 33,
+      "nombre": "Dulce de leche",
+      "marca": "Chimbote",
+      "precio": 2046,
+      "categoria": "dulces",
+      "codigo_barra": "779124377409",
+      "tipo": "repostero",
+      "atributos": []
+    },
+    {
+      "id": 34,
+      "nombre": "Cebollas",
+      "marca": "Campo Claro",
+      "precio": 2183,
+      "categoria": "verduras",      
+      "codigo_barra": "779938677491",
+      "tipo": "",
+      "atributos": [
+        "sin TACC",
+        "orgánico"
+      ]
+    },
+    {
+      "id": 35,
+      "nombre": "Vino",
+      "marca": "Norton",
+      "precio": 1492,
+      "categoria": "bebidas alcohólicas",
+      "codigo_barra": "779631424258",
+      "tipo": "",
+      "atributos": []
+    },
+    {
+      "id": 36,
+      "nombre": "Gaseosa",
+      "marca": "Cunnington",
+      "precio": 1064,
+      "categoria": "bebidas",
+      "codigo_barra": "779375057847",
+      "tipo": "",
+      "atributos": []
+    },
+    {
+      "id": 37,
+      "nombre": "Té",
+      "marca": "La Virginia",
+      "precio": 1385,
+      "categoria": "despensa",
+      "codigo_barra": "779122709905",
+      "tipo": "",
+      "atributos": [
+        "orgánico",
+        "vegano"
+      ]
+    },
+    {
+      "id": 38,
+      "nombre": "Manzanas",
+      "marca": "San Ignacio",
+      "precio": 370,
+      "categoria": "frutas",      
+      "codigo_barra": "779571022220",
+      "tipo": "",
+      "atributos": [
+        "vegano"
+      ]
+    },
+    {
+      "id": 39,
+      "nombre": "Naranjas",
+      "marca": "San Ignacio",
+      "precio": 2510,
+      "categoria": "frutas",
+      "codigo_barra": "779376593373",
+      "tipo": "",
+      "atributos": [
+        "vegano"
+      ]
+    },
+    {
+      "id": 40,
+      "nombre": "Zanahorias",
+      "marca": "Frutas del Valle",
+      "precio": 1140,
+      "categoria": "verduras",
+      "codigo_barra": "779435335771",
+      "tipo": "",
+      "atributos": [
+        "bajo sodio",
+        "vegano"
+      ]
+    },
+    {
+      "id": 41,
+      "nombre": "Jugo",
+      "marca": "Tang",
+      "precio": 2131,
+      "categoria": "bebidas",
+      "codigo_barra": "779107972769",
+      "tipo": "naranja",
+      "atributos": [
+        "bajo sodio"
+      ]
+    },
+    {
+      "id": 42,
+      "nombre": "Aceite",
+      "marca": "Marolio",
+      "precio": 2259,
+      "categoria": "despensa",      
+      "codigo_barra": "779127115272",
+      "tipo": "",
+      "atributos": []
+    },
+    {
+      "id": 43,
+      "nombre": "Leche",
+      "marca": "La Serenísima",
+      "precio": 682,
+      "categoria": "lácteos",      
+      "codigo_barra": "779474048886",
+      "tipo": "entera",
+      "atributos": []
+    },
+    {
+      "id": 44,
+      "nombre": "Harina",
+      "marca": "Molinos Río de la Plata",
+      "precio": 515,
+      "categoria": "despensa",
+      "codigo_barra": "779909149607",
+      "tipo": "",
+      "atributos": [
+        "orgánico",
+        "vegano"
+      ]
+    },
+    {
+      "id": 45,
+      "nombre": "Mermelada",
+      "marca": "BC",
+      "precio": 1592,
+      "categoria": "dulces",      
+      "codigo_barra": "779841067069",
+      "tipo": "",
+      "atributos": [
+        "bajo sodio",
+        "orgánico"
+      ]
+    },
+    {
+      "id": 46,
+      "nombre": "Zanahorias",
+      "marca": "Frutas del Valle",
+      "precio": 643,
+      "categoria": "verduras",
+      "codigo_barra": "779781999312",
+      "tipo": "",
+      "atributos": []
+    },
+    {
+      "id": 47,
+      "nombre": "Gaseosa",
+      "marca": "Manaos",
+      "precio": 1908,
+      "categoria": "bebidas",      
+      "codigo_barra": "779305837175",
+      "tipo": "",
+      "atributos": []
+    },
+    {
+      "id": 48,
+      "nombre": "Bananas",
+      "marca": "Del Monte",
+      "precio": 1759,
+      "categoria": "frutas",
+      "codigo_barra": "779271036783",
+      "tipo": "",
+      "atributos": [
+        "orgánico",
+        "vegano"
+      ]
+    },
+    {
+      "id": 49,
+      "nombre": "Cebollas",
+      "marca": "Frutas del Valle",
+      "precio": 966,
+      "categoria": "verduras",
+      "codigo_barra": "779636653565",
+      "tipo": "",
+      "atributos": [
+        "bajo sodio",
+        "vegano"
+      ]
+    },
+    {
+      "id": 50,
+      "nombre": "Fideos",
+      "marca": "Don Vicente",
+      "precio": 999,
+      "categoria": "pastas",
+      "codigo_barra": "779223786477",
+      "tipo": "spaghetti",
+      "atributos": []
+    },
+    {
+      "id": 51,
+      "nombre": "Bananas",
+      "marca": "Del Monte",
+      "precio": 889,
+      "categoria": "frutas",
+      "codigo_barra": "779269693755",
+      "tipo": "",
+      "atributos": [
+        "sin TACC",
+        "vegano"
+      ]
+    },
+    {
+      "id": 52,
+      "nombre": "Té",
+      "marca": "Green Hills",
+      "precio": 2988,
+      "categoria": "despensa",
+      "codigo_barra": "779234586502",
+      "tipo": "",
+      "atributos": [
+        "orgánico"
+      ]
+    },
+    {
+      "id": 53,
+      "nombre": "Carne picada",
+      "marca": "Carnes Argentinas",
+      "precio": 1809,
+      "categoria": "carnes",
+      "codigo_barra": "779126260376",
+      "tipo": "",
+      "atributos": []
+    },
+    {
+      "id": 54,
+      "nombre": "Jugo",
+      "marca": "Cepita",
+      "precio": 1413,
+      "categoria": "bebidas",
+      "codigo_barra": "779391880819",
+      "tipo": "multifruta",
+      "atributos": [
+        "apto diabéticos",
+        "vegano"
+      ]
+    },
+    {
+      "id": 55,
+      "nombre": "Agua",
+      "marca": "Villavicencio",
+      "precio": 2047,
+      "categoria": "bebidas",      
+      "codigo_barra": "779363687185",
+      "tipo": "",
+      "atributos": [
+        "bajo sodio",
+        "vegano"
+      ]
+    },
+    {
+      "id": 56,
+      "nombre": "Pollo",
+      "marca": "Granja del Sol",
+      "precio": 1294,
+      "categoria": "carnes",
+      "codigo_barra": "779268595040",
+      "tipo": "",
+      "atributos": []
+    },
+    {
+      "id": 57,
+      "nombre": "Pan",
+      "marca": "Molinos Río de la Plata",
+      "precio": 2460,
+      "categoria": "panificados",
+      "codigo_barra": "779697727136",
+      "tipo": "con semillas",
+      "atributos": [
+        "orgánico",
+        "apto diabéticos"
+      ]
+    },
+    {
+      "id": 58,
+      "nombre": "Cerveza",
+      "marca": "Brahma",
+      "precio": 1224,
+      "categoria": "bebidas alcohólicas",      
+      "codigo_barra": "779549038979",
+      "tipo": "",
+      "atributos": []
+    },
+    {
+      "id": 59,
+      "nombre": "Dulce de leche",
+      "marca": "Chimbote",
+      "precio": 2756,
+      "categoria": "dulces",
+      "codigo_barra": "779860443745",
+      "tipo": "repostero",
+      "atributos": [
+        "vegano",
+        "sin TACC"
+      ]
+    },
+    {
+      "id": 60,
+      "nombre": "Harina",
+      "marca": "Marolio",
+      "precio": 2032,
+      "categoria": "despensa",      
+      "codigo_barra": "779966334986",
+      "tipo": "",
+      "atributos": [
+        "sin TACC"
+      ]
+    },
+    {
+      "id": 61,
+      "nombre": "Aceite",
+      "marca": "Marolio",
+      "precio": 1148,
+      "categoria": "despensa",      
+      "codigo_barra": "779153889939",
+      "tipo": "",
+      "atributos": [
+        "vegano",
+        "apto diabéticos"
+      ]
+    },
+    {
+      "id": 62,
+      "nombre": "Queso",
+      "marca": "Tregar",
+      "precio": 1780,
+      "categoria": "lácteos",
+      "codigo_barra": "779889095036",
+      "tipo": "muzzarella",
+      "atributos": [
+        "apto diabéticos"
+      ]
+    },
+    {
+      "id": 63,
+      "nombre": "Té",
+      "marca": "La Virginia",
+      "precio": 2422,
+      "categoria": "despensa",
+      "codigo_barra": "779304065937",
+      "tipo": "",
+      "atributos": [
+        "apto diabéticos"
+      ]
+    },
+    {
+      "id": 64,
+      "nombre": "Manteca",
+      "marca": "Tregar",
+      "precio": 1981,
+      "categoria": "lácteos",      
+      "codigo_barra": "779839169983",
+      "tipo": "",
+      "atributos": [
+        "bajo sodio",
+        "sin TACC"
+      ]
+    },
+    {
+      "id": 65,
+      "nombre": "Arroz",
+      "marca": "Gallo",
+      "precio": 413,
+      "categoria": "despensa",      
+      "codigo_barra": "779799411455",
+      "tipo": "largo fino",
+      "atributos": [
+        "bajo sodio",
+        "sin TACC"
+      ]
+    },
+    {
+      "id": 66,
+      "nombre": "Crema",
+      "marca": "Tregar",
+      "precio": 1432,
+      "categoria": "lácteos",      
+      "codigo_barra": "779242355266",
+      "tipo": "",
+      "atributos": [
+        "orgánico",
+        "bajo sodio"
+      ]
+    },
+    {
+      "id": 67,
+      "nombre": "Pan",
+      "marca": "Bimbo",
+      "precio": 458,
+      "categoria": "panificados",
+      "codigo_barra": "779377033001",
+      "tipo": "integral",
+      "atributos": [
+        "orgánico",
+        "bajo sodio"
+      ]
+    },
+    {
+      "id": 68,
+      "nombre": "Harina",
+      "marca": "Morixe",
+      "precio": 574,
+      "categoria": "despensa",      
+      "codigo_barra": "779658498086",
+      "tipo": "",
+      "atributos": [
+        "orgánico"
+      ]
+    },
+    {
+      "id": 69,
+      "nombre": "Salchichas",
+      "marca": "Swift",
+      "precio": 2550,
+      "categoria": "carnes",      
+      "codigo_barra": "779450761768",
+      "tipo": "",
+      "atributos": [
+        "apto diabéticos",
+        "sin TACC"
+      ]
+    },
+    {
+      "id": 70,
+      "nombre": "Huevos",
+      "marca": "Granja Tres Arroyos",
+      "precio": 890,
+      "categoria": "lácteos",
+      "codigo_barra": "779587725808",
+      "tipo": "",
+      "atributos": [
+        "vegano",
+        "sin TACC"
+      ]
+    },
+    {
+      "id": 71,
+      "nombre": "Arroz",
+      "marca": "Gallo",
+      "precio": 313,
+      "categoria": "despensa",
+      "codigo_barra": "779978969553",
+      "tipo": "largo fino",
+      "atributos": []
+    },
+    {
+      "id": 72,
+      "nombre": "Jugo",
+      "marca": "Tang",
+      "precio": 2025,
+      "categoria": "bebidas",      
+      "codigo_barra": "779426500737",
+      "tipo": "multifruta",
+      "atributos": [
+        "bajo sodio"
+      ]
+    },
+    {
+      "id": 73,
+      "nombre": "Arroz",
+      "marca": "Gallo",
+      "precio": 2606,
+      "categoria": "despensa",
+      "codigo_barra": "779557990229",
+      "tipo": "largo fino",
+      "atributos": []
+    },
+    {
+      "id": 74,
+      "nombre": "Papas",
+      "marca": "Campo Claro",
+      "precio": 1720,
+      "categoria": "verduras",
+      "codigo_barra": "779302927354",
+      "tipo": "",
+      "atributos": [
+        "bajo sodio",
+        "sin TACC"
+      ]
+    },
+    {
+      "id": 75,
+      "nombre": "Bananas",
+      "marca": "Frutas del Valle",
+      "precio": 2546,
+      "categoria": "frutas",
+      "codigo_barra": "779317521577",
+      "tipo": "",
+      "atributos": [
+        "apto diabéticos",
+        "bajo sodio"
+      ]
+    },
+    {
+      "id": 76,
+      "nombre": "Carne picada",
+      "marca": "La Anónima",
+      "precio": 914,
+      "categoria": "carnes",      
+      "codigo_barra": "779904220200",
+      "tipo": "",
+      "atributos": [
+        "sin TACC"
+      ]
+    },
+    {
+      "id": 77,
+      "nombre": "Agua",
+      "marca": "Eco de los Andes",
+      "precio": 1662,
+      "categoria": "bebidas",
+      "codigo_barra": "779102312549",
+      "tipo": "",
+      "atributos": [
+        "sin TACC"
+      ]
+    },
+    {
+      "id": 78,
+      "nombre": "Arroz",
+      "marca": "Marolio",
+      "precio": 969,
+      "categoria": "despensa",
+      "codigo_barra": "779305329046",
+      "tipo": "parboil",
+      "atributos": [
+        "bajo sodio",
+        "sin TACC"
+      ]
+    },
+    {
+      "id": 79,
+      "nombre": "Azúcar",
+      "marca": "Ledesma",
+      "precio": 854,
+      "categoria": "despensa",
+      "codigo_barra": "779819348789",
+      "tipo": "",
+      "atributos": []
+    },
+    {
+      "id": 80,
+      "nombre": "Jugo",
+      "marca": "Tang",
+      "precio": 2402,
+      "categoria": "bebidas",
+      "codigo_barra": "779417130052",
+      "tipo": "naranja",
+      "atributos": [
+        "sin TACC",
+        "bajo sodio"
+      ]
+    },
+    {
+      "id": 81,
+      "nombre": "Cebollas",
+      "marca": "Frutas del Valle",
+      "precio": 2281,
+      "categoria": "verduras",
+      "codigo_barra": "779982319058",
+      "tipo": "",
+      "atributos": [
+        "vegano",
+        "sin TACC"
+      ]
+    },
+    {
+      "id": 82,
+      "nombre": "Yerba mate",
+      "marca": "Nobleza Gaucha",
+      "precio": 1290,
+      "categoria": "despensa",
+      "codigo_barra": "779881487419",
+      "tipo": "sin palo",
+      "atributos": []
+    },
+    {
+      "id": 83,
+      "nombre": "Dulce de leche",
+      "marca": "La Serenísima",
+      "precio": 328,
+      "categoria": "dulces",
+      "codigo_barra": "779398320468",
+      "tipo": "light",
+      "atributos": [
+        "apto diabéticos",
+        "vegano"
+      ]
+    },
+    {
+      "id": 84,
+      "nombre": "Agua",
+      "marca": "Eco de los Andes",
+      "precio": 1484,
+      "categoria": "bebidas",
+      "codigo_barra": "779156683733",
+      "tipo": "",
+      "atributos": [
+        "apto diabéticos",
+        "orgánico"
+      ]
+    },
+    {
+      "id": 85,
+      "nombre": "Manteca",
+      "marca": "Tregar",
+      "precio": 2254,
+      "categoria": "lácteos",      
+      "codigo_barra": "779920883508",
+      "tipo": "",
+      "atributos": []
+    },
+    {
+      "id": 86,
+      "nombre": "Huevos",
+      "marca": "Granja Tres Arroyos",
+      "precio": 1262,
+      "categoria": "lácteos",      
+      "codigo_barra": "779203432657",
+      "tipo": "",
+      "atributos": [
+        "orgánico"
+      ]
+    },
+    {
+      "id": 87,
+      "nombre": "Cerveza",
+      "marca": "Andes",
+      "precio": 2984,
+      "categoria": "bebidas alcohólicas",      
+      "codigo_barra": "779577393776",
+      "tipo": "",
+      "atributos": [
+        "sin TACC"
+      ]
+    },
+    {
+      "id": 88,
+      "nombre": "Azúcar",
+      "marca": "Marolio",
+      "precio": 2041,
+      "categoria": "despensa",      
+      "codigo_barra": "779172681952",
+      "tipo": "",
+      "atributos": [
+        "vegano"
+      ]
+    },
+    {
+      "id": 89,
+      "nombre": "Zanahorias",
+      "marca": "Frutas del Valle",
+      "precio": 2677,
+      "categoria": "verduras",
+      "codigo_barra": "779811575874",
+      "tipo": "",
+      "atributos": [
+        "vegano"
+      ]
+    },
+    {
+      "id": 90,
+      "nombre": "Salchichas",
+      "marca": "Swift",
+      "precio": 2322,
+      "categoria": "carnes",
+      "codigo_barra": "779665832536",
+      "tipo": "",
+      "atributos": [
+        "orgánico"
+      ]
+    },
+    {
+      "id": 91,
+      "nombre": "Manzanas",
+      "marca": "San Ignacio",
+      "precio": 657,
+      "categoria": "frutas",      
+      "codigo_barra": "779707110502",
+      "tipo": "",
+      "atributos": [
+        "orgánico",
+        "apto diabéticos"
+      ]
+    },
+    {
+      "id": 92,
+      "nombre": "Harina",
+      "marca": "Molinos Río de la Plata",
+      "precio": 2859,
+      "categoria": "despensa",
+      "codigo_barra": "779499825443",
+      "tipo": "",
+      "atributos": [
+        "bajo sodio",
+        "vegano"
+      ]
+    },
+    {
+      "id": 93,
+      "nombre": "Pollo",
+      "marca": "Paty",
+      "precio": 1832,
+      "categoria": "carnes",      
+      "codigo_barra": "779110257716",
+      "tipo": "",
+      "atributos": []
+    },
+    {
+      "id": 94,
+      "nombre": "Jugo",
+      "marca": "Cepita",
+      "precio": 1242,
+      "categoria": "bebidas",
+      "codigo_barra": "779972513773",
+      "tipo": "manzana",
+      "atributos": [
+        "vegano",
+        "orgánico"
+      ]
+    },
+    {
+      "id": 95,
+      "nombre": "Té",
+      "marca": "Green Hills",
+      "precio": 2124,
+      "categoria": "despensa",      
+      "codigo_barra": "779735054582",
+      "tipo": "",
+      "atributos": []
+    },
+    {
+      "id": 96,
+      "nombre": "Carne picada",
+      "marca": "Carnes Argentinas",
+      "precio": 1715,
+      "categoria": "carnes",      
+      "codigo_barra": "779152931170",
+      "tipo": "",
+      "atributos": [
+        "sin TACC"
+      ]
+    },
+    {
+      "id": 97,
+      "nombre": "Gaseosa",
+      "marca": "Cunnington",
+      "precio": 2302,
+      "categoria": "bebidas",
+      "codigo_barra": "779606537459",
+      "tipo": "",
+      "atributos": [
+        "bajo sodio",
+        "vegano"
+      ]
+    },
+    {
+      "id": 98,
+      "nombre": "Naranjas",
+      "marca": "Frutas del Valle",
+      "precio": 1392,
+      "categoria": "frutas",
+      "codigo_barra": "779424828586",
+      "tipo": "",
+      "atributos": [
+        "orgánico",
+        "apto diabéticos"
+      ]
+    },
+    {
+      "id": 99,
+      "nombre": "Naranjas",
+      "marca": "San Ignacio",
+      "precio": 2890,
+      "categoria": "frutas",
+      "codigo_barra": "779745773770",
+      "tipo": "",
+      "atributos": []
+    },
+    {
+      "id": 100,
+      "nombre": "Pan",
+      "marca": "Bimbo",
+      "precio": 721,
+      "categoria": "panificados",
+      "stock": 74,
+      "codigo_barra": "779844549025",
+      "tipo": "lactal",
+      "atributos": [
+        "vegano"
+      ]
+    }
+  ]
+}
