@@ -1,0 +1,15 @@
+.hero-image {
+  max-width: 400px;
+}
+.feature-card, .func-card {
+  margin-bottom: 2rem;
+}
+.offcanvas {
+  z-index: 2000;
+}
+.dot.active {
+  background: #1976d2 !important;
+}
+.dot {
+  background: #ccc;
+}

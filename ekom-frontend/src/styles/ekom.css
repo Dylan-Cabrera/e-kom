@@ -1,0 +1,244 @@
+:root {
+  --colorPrimary: #2f80ed;
+  --colorAccent: #f2994a;
+  --colorWarning: #f2c94c;
+  --colorBackground: #f9f9fb;
+  --colorCard: #fff;
+  --colorText: #1a1d23;
+  --colorMuted: #7d8597;
+  --radius: 18px;
+  --shadow: 0 6px 16px 0 rgba(42, 53, 102, 0.13);
+}
+
+body {
+  font-family: 'Montserrat', 'Open Sans', Arial, sans-serif;
+  background: var(--colorBackground);
+  color: var(--colorText);
+}
+
+/* Navbar y Footer igual que antes... */
+
+/* Cards de Productos */
+.ekom-products-section {
+  margin: 80px 0 0;
+  padding: 0 7vw;
+}
+.ekom-products-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 36px;
+}
+.ekom-product-card {
+  background: var(--colorCard);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  transition: transform 0.14s, box-shadow 0.14s;
+  overflow: hidden;
+}
+.ekom-product-card:hover {
+  transform: translateY(-7px) scale(1.025);
+  box-shadow: 0 20px 40px 0 rgba(47,128,237,0.13);
+}
+.ekom-product-card__img {
+  width: 100%;
+  height: 185px;
+  object-fit: cover;
+  background: #e5f0ff;
+}
+.ekom-product-card__info {
+  padding: 18px 22px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  flex: 1;
+}
+.ekom-product-card__title {
+  font-size: 1.17rem;
+  font-weight: 700;
+  color: var(--colorPrimary);
+}
+.ekom-product-card__brand {
+  color: var(--colorMuted);
+  font-size: 0.99rem;
+}
+.ekom-product-card__price {
+  font-weight: 700;
+  color: var(--colorAccent);
+  font-size: 1.12rem;
+}
+.ekom-product-card__category {
+  font-weight: 500;
+  font-size: 0.99rem;
+  color: var(--colorMuted);
+}
+.ekom-product-card__atributos {
+  font-size: 0.96rem;
+  color: var(--colorPrimary);
+  margin-bottom: 3px;
+}
+.ekom-product-card__btn {
+  margin-top: 13px;
+  padding: 9px 0;
+  border-radius: 999px;
+  background: var(--colorPrimary);
+  color: #fff;
+  font-weight: 700;
+  border: none;
+  font-size: 1.03rem;
+  cursor: pointer;
+  transition: background 0.18s;
+}
+.ekom-product-card__btn:hover {
+  background: var(--colorAccent);
+  color: var(--colorText);
+}
+
+/* Lista de compras */
+.ekom-lista-section {
+  margin: 80px 0 0;
+  padding: 0 7vw;
+}
+.ekom-lista-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 36px;
+}
+.ekom-lista-card {
+  background: var(--colorCard);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  transition: transform 0.14s, box-shadow 0.14s;
+  overflow: hidden;
+  position: relative;
+}
+.ekom-lista-card:hover {
+  transform: translateY(-7px) scale(1.025);
+  box-shadow: 0 20px 40px 0 rgba(47,128,237,0.13);
+}
+.ekom-lista-card__img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  background: #e5f0ff;
+}
+.ekom-lista-card__info {
+  padding: 16px 22px 16px;
+  flex: 1;
+}
+.ekom-lista-card__title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--colorPrimary);
+}
+.ekom-lista-card__price-list {
+  margin-top: 10px;
+  font-size: 0.98rem;
+}
+.ekom-lista-card__btn {
+  margin-top: 7px;
+  padding: 7px 0;
+  border-radius: 999px;
+  background: var(--colorAccent);
+  color: #fff;
+  font-weight: 700;
+  border: none;
+  font-size: 0.97rem;
+  cursor: pointer;
+  transition: background 0.18s;
+}
+.ekom-lista-card__btn:hover {
+  background: var(--colorPrimary);
+  color: #fff;
+}
+
+/* ...otros estilos previos... */
+
+/* Mejora del grid de productos y lista */
+.ekom-products-section,
+.ekom-lista-section {
+  margin: 60px 0 0;
+  padding: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ekom-products-grid,
+.ekom-lista-grid {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 28px;
+  justify-items: center;
+  align-items: stretch;
+  padding: 0 2vw;
+}
+
+.ekom-product-card,
+.ekom-lista-card {
+  width: 100%;
+  max-width: 320px;
+  min-width: 230px;
+  background: var(--colorCard);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  transition: transform 0.14s, box-shadow 0.14s;
+  overflow: hidden;
+}
+
+.ekom-product-card__img,
+.ekom-lista-card__img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  background: #e5f0ff;
+}
+
+.ekom-product-card__info,
+.ekom-lista-card__info {
+  padding: 14px 16px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  flex: 1;
+}
+
+/* Responsive para mobile: */
+@media (max-width: 900px) {
+  .ekom-products-grid,
+  .ekom-lista-grid {
+    max-width: 98vw;
+    grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+    gap: 18px;
+    padding: 0 1vw;
+  }
+  .ekom-product-card,
+  .ekom-lista-card {
+    max-width: 100%;
+    min-width: 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .ekom-products-section,
+  .ekom-lista-section {
+    margin-top: 35px;
+  }
+  .ekom-products-grid,
+  .ekom-lista-grid {
+    grid-template-columns: 1fr;
+    padding: 0 8px;
+  }
+}

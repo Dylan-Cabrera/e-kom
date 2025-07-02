@@ -1,0 +1,497 @@
+:root {
+  --colorPrimary: #2f80ed;
+  --colorAccent: #f2994a;
+  --colorWarning: #f2c94c;
+  --colorBackground: #f9f9fb;
+  --colorCard: #fff;
+  --colorText: #1a1d23;
+  --colorMuted: #7d8597;
+  --radius: 18px;
+  --shadow: 0 6px 16px 0 rgba(42, 53, 102, 0.13);
+}
+
+body {
+  font-family: 'Montserrat', 'Open Sans', Arial, sans-serif;
+  background: var(--colorBackground);
+  color: var(--colorText);
+}
+
+/* Navbar */
+.ekom-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 32px 7vw 12px;
+  background: transparent;
+  font-family: 'Montserrat', Arial, sans-serif;
+}
+.ekom-navbar__logo {
+  font-size: 2.1rem;
+  font-weight: 700;
+  letter-spacing: -1px;
+}
+.ekom-navbar__logo span {
+  color: var(--colorAccent);
+}
+.ekom-navbar__links {
+  display: flex;
+  gap: 2.5vw;
+  align-items: center;
+}
+.ekom-navbar__links a {
+  text-decoration: none;
+  color: var(--colorMuted);
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  font-size: 1.09rem;
+  padding: 4px 12px;
+  border-radius: 8px;
+  transition: color 0.2s, background 0.2s;
+}
+.ekom-navbar__links a.cta-btn {
+  background: var(--colorPrimary);
+  color: #fff;
+  font-weight: 700;
+  margin-left: 7px;
+  box-shadow: var(--shadow);
+}
+.ekom-navbar__links a:hover:not(.cta-btn) {
+  color: var(--colorPrimary);
+  background: #f2f5f9;
+}
+
+/* Hero */
+.ekom-hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 60vh;
+  padding: 32px 7vw 0;
+  position: relative;
+  background: linear-gradient(110deg, #e5f0ff 60%, #fff 100%);
+  border-radius: 0 0 var(--radius) var(--radius);
+  box-shadow: 0 12px 40px 0 rgba(47, 128, 237, 0.07);
+  overflow: hidden;
+}
+.ekom-hero__content {
+  max-width: 500px;
+  z-index: 2;
+}
+.ekom-hero__content h1 {
+  font-size: 2.6rem;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-weight: 800;
+  margin-bottom: 18px;
+  line-height: 1.17;
+  color: var(--colorText);
+}
+.ekom-hero__content h1 span:first-child {
+  color: var(--colorPrimary);
+}
+.ekom-hero__content p {
+  color: var(--colorMuted);
+  font-size: 1.18rem;
+  margin-bottom: 24px;
+}
+.ekom-hero__actions {
+  display: flex;
+  gap: 18px;
+}
+.cta-btn {
+  display: inline-block;
+  padding: 12px 30px;
+  background: var(--colorPrimary);
+  color: #fff;
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 1rem;
+  box-shadow: 0 2px 7px 0 rgba(47,128,237,0.11);
+  border: 0;
+  transition: background 0.2s;
+  text-decoration: none;
+}
+.cta-btn.cta-btn--main {
+  background: var(--colorAccent);
+  color: #fff;
+}
+.cta-btn.cta-btn--ghost {
+  background: #fff;
+  color: var(--colorPrimary);
+  border: 2px solid var(--colorPrimary);
+}
+.cta-btn:hover {
+  filter: brightness(1.08);
+}
+.ekom-hero__imgwrap {
+  position: relative;
+  width: 370px;
+  height: 310px;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ekom-hero__img {
+  border-radius: 30px;
+  box-shadow: 0 14px 40px 0 rgba(47,128,237,0.14);
+  width: 310px;
+  height: 310px;
+  object-fit: cover;
+  z-index: 2;
+  position: relative;
+  background: #fff;
+}
+.ekom-hero__blob {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 14px;
+  top: 26px;
+  background: radial-gradient(ellipse at 60% 40%, #f2994a33 40%, transparent 100%);
+  border-radius: 40% 60% 50% 50%;
+  z-index: 1;
+  filter: blur(5px);
+}
+
+/* Ofertas */
+.ekom-ofertas {
+  margin: 80px 0 0;
+  padding: 0 7vw;
+}
+.section-title {
+  font-size: 2rem;
+  font-weight: 700;
+  font-family: 'Montserrat', Arial, sans-serif;
+  margin-bottom: 40px;
+  color: var(--colorPrimary);
+}
+.ekom-ofertas__grid {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+.ekom-oferta-card {
+  background: var(--colorCard);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  width: 250px;
+  overflow: hidden;
+  transition: transform 0.15s, box-shadow 0.15s;
+  display: flex;
+  flex-direction: column;
+}
+.ekom-oferta-card:hover {
+  transform: translateY(-7px) scale(1.035);
+  box-shadow: 0 20px 40px 0 rgba(242,153,74,0.13);
+}
+.ekom-oferta-card__img {
+  width: 100%;
+  height: 170px;
+  background-size: cover;
+  background-position: center;
+}
+.ekom-oferta-card__info {
+  padding: 18px 18px 16px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.ekom-oferta-card__info h4 {
+  font-size: 1.17rem;
+  margin-bottom: 12px;
+  font-weight: 700;
+}
+.ekom-oferta-card__info button {
+  border: none;
+  padding: 8px 19px;
+  border-radius: 999px;
+  font-weight: 600;
+  color: #fff;
+  background: var(--colorPrimary);
+  cursor: pointer;
+  align-self: flex-end;
+  transition: filter 0.16s;
+}
+.ekom-oferta-card__info button:hover {
+  filter: brightness(1.1);
+}
+
+/* Features */
+.ekom-features {
+  margin: 100px 0 0;
+  padding: 0 7vw;
+}
+.ekom-features__grid {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+.ekom-feature {
+  background: linear-gradient(110deg, #f9f9fb 60%, #e5f0ff 100%);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 32px 28px;
+  width: 300px;
+  min-height: 220px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: transform 0.13s, box-shadow 0.13s;
+}
+.ekom-feature__icon {
+  font-size: 2.5rem;
+  margin-bottom: 16px;
+}
+.ekom-feature h3 {
+  font-size: 1.19rem;
+  font-weight: 700;
+  margin-bottom: 9px;
+  color: var(--colorPrimary);
+}
+.ekom-feature p {
+  color: var(--colorMuted);
+  text-align: center;
+}
+
+/* Video Demo */
+.ekom-demo {
+  margin: 110px 0 0;
+  padding: 0 7vw;
+  display: flex;
+  justify-content: center;
+}
+.ekom-demo__content {
+  width: 100%;
+  max-width: 760px;
+  text-align: center;
+}
+.ekom-demo__video {
+  margin-top: 34px;
+  display: flex;
+  justify-content: center;
+}
+.ekom-demo__video-placeholder {
+  background: linear-gradient(110deg, #2f80ed18 60%, #f2994a13 100%);
+  color: #b2b2b2;
+  border-radius: 20px;
+  width: 90%;
+  min-height: 260px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  box-shadow: var(--shadow);
+}
+
+/* Testimonios */
+.ekom-testimonios {
+  margin: 110px 0 0;
+  padding: 0 7vw;
+  background: transparent;
+}
+.ekom-testimonio-card {
+  margin: 32px auto 0;
+  max-width: 520px;
+  background: var(--colorCard);
+  border-radius: 25px;
+  box-shadow: var(--shadow);
+  padding: 38px 30px 36px;
+  text-align: center;
+  position: relative;
+}
+.testimonial-quote {
+  font-size: 1.25rem;
+  font-weight: 500;
+  color: var(--colorText);
+  margin-bottom: 24px;
+}
+.testimonial-author {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 18px;
+}
+.author-avatar {
+  background: var(--colorPrimary);
+  color: #fff;
+  font-size: 1.3rem;
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 13px;
+  font-weight: 700;
+}
+.author-info h4 {
+  margin: 0;
+  font-size: 1.08rem;
+  font-weight: 700;
+}
+.author-info p {
+  margin: 0;
+  color: var(--colorMuted);
+  font-size: 0.97rem;
+}
+.testimonial-dots {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 7px;
+}
+.dot {
+  width: 12px;
+  height: 12px;
+  background: #e0e0e0;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.dot.active {
+  background: var(--colorPrimary);
+}
+
+/* CTA */
+.ekom-cta {
+  margin: 110px 0 0;
+  padding: 0 7vw;
+  display: flex;
+  justify-content: center;
+}
+.ekom-cta__content {
+  background: linear-gradient(110deg, #2f80ed 60%, #f2994a 100%);
+  color: #fff;
+  border-radius: 25px;
+  box-shadow: var(--shadow);
+  padding: 55px 38px 45px;
+  text-align: center;
+  width: 100%;
+  max-width: 660px;
+}
+.ekom-cta__content h2 {
+  color: #fff;
+  font-weight: 800;
+}
+.ekom-cta__content p {
+  color: #fdf6e3;
+  font-size: 1.13rem;
+  margin-bottom: 28px;
+}
+.ekom-cta__form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+.ekom-cta__form input[type="email"] {
+  border-radius: 999px;
+  border: none;
+  outline: none;
+  padding: 12px 20px;
+  font-size: 1.05rem;
+  width: 63%;
+  margin-right: 10px;
+}
+.ekom-cta__form button {
+  border-radius: 999px;
+  border: none;
+  outline: none;
+  background: #fff;
+  color: var(--colorPrimary);
+  font-weight: 700;
+  padding: 12px 26px;
+  font-size: 1.03rem;
+  cursor: pointer;
+  transition: background 0.18s;
+}
+.ekom-cta__form button:hover {
+  background: #e5f0ff;
+}
+
+/* Footer */
+.ekom-footer {
+  margin-top: 110px;
+  padding: 38px 7vw 25px;
+  background: #222c38;
+  color: #f9f9fb;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  border-radius: var(--radius) var(--radius) 0 0;
+  flex-wrap: wrap;
+}
+.ekom-footer h3 {
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-size: 1.4rem;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+.ekom-footer h3 span {
+  color: var(--colorAccent);
+}
+.ekom-footer__links {
+  display: flex;
+  gap: 22px;
+  align-items: center;
+  font-size: 1.04rem;
+}
+.ekom-footer__links a {
+  color: #f9f9fb;
+  opacity: 0.85;
+  text-decoration: none;
+  font-weight: 600;
+  transition: opacity 0.17s;
+}
+.ekom-footer__links a:hover {
+  opacity: 1;
+}
+
+/* Responsive */
+@media (max-width: 1000px) {
+  .ekom-hero, .ekom-navbar, .ekom-ofertas, .ekom-features, .ekom-demo, .ekom-testimonios, .ekom-cta, .ekom-footer {
+    padding-left: 4vw;
+    padding-right: 4vw;
+  }
+  .ekom-hero__imgwrap {
+    display: none;
+  }
+  .ekom-hero {
+    flex-direction: column;
+    min-height: 55vh;
+  }
+}
+@media (max-width: 700px) {
+  .ekom-navbar__links {
+    gap: 14px;
+    font-size: 0.95rem;
+  }
+  .ekom-ofertas__grid,
+  .ekom-features__grid {
+    flex-direction: column;
+    gap: 22px;
+  }
+  .ekom-oferta-card,
+  .ekom-feature {
+    width: 100%;
+    min-width: 0;
+  }
+  .ekom-demo__video-placeholder {
+    width: 99%;
+  }
+  .ekom-testimonio-card {
+    padding: 18px 6vw 15px;
+  }
+  .ekom-cta__content {
+    padding: 30px 6vw 25px;
+  }
+  .ekom-footer {
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 6vw;
+    padding-right: 6vw;
+    gap: 18px;
+  }
+}

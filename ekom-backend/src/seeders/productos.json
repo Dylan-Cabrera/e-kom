@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "nombre": "Carne picada",
+    "marca": "Carnes Argentinas",
+    "precio": 2346,
+    "categoria": "carnes",
+    "codigo_barra": "779746656615",
+    "tipo": "",
+    "atributos": ["vegano", "apto diabéticos"],
+    "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/315973-500-auto?v=638599452712700000&width=500&height=auto&aspect=true"
+  },
+  {
+    "id": 2,
+    "nombre": "Jugo",
+    "marca": "Tang",
+    "precio": 300,
+    "categoria": "bebidas",
+    "codigo_barra": "779701940021",
+    "tipo": "multifruta",
+    "atributos": ["bajo sodio", "sin TACC"],
+    "imagen": "https://elnenearg.vtexassets.com/arquivos/ids/166559/JUGO-EN-POLVO-TANG-MULTIFRUTA-C-ENDULCOR-X15GR-1-11520.jpg?v=638140593685800000"
+  },
+  {
+    "id": 3,
+    "nombre": "Leche entera",
+    "marca": "La Serenísima",
+    "precio": 890,
+    "categoria": "lácteos",
+    "codigo_barra": "779123456789",
+    "tipo": "entera",
+    "atributos": ["sin TACC", "fuente de calcio"],
+    "imagen": "https://elnenearg.vtexassets.com/arquivos/ids/163062/LECHE-SERENISIMA-ENTERA-UAT-FORT-3-X200ML-1-620.jpg?v=637982373660730000"
+  },
+  {
+    "id": 4,
+    "nombre": "Pan integral",
+    "marca": "Bimbo",
+    "precio": 680,
+    "categoria": "panificados",
+    "codigo_barra": "779987654321",
+    "tipo": "integral",
+    "atributos": ["alto en fibra", "sin TACC"],
+    "imagen": "https://elnenearg.vtexassets.com/arquivos/ids/170739/PAN-BIMBO-X420GR-INTEGRAL-FIBRA-1-15400.jpg?v=638700573746330000"
+  },
+  {
+    "id": 5,
+    "nombre": "Arroz largo fino",
+    "marca": "Gallo",
+    "precio": 950,
+    "categoria": "almacen",
+    "codigo_barra": "779456789012",
+    "tipo": "largo fino",
+    "atributos": ["sin TACC", "bajo en grasa"],
+    "imagen": "https://www.casa-segal.com/wp-content/uploads/2020/05/gallo-arroz-1kg-largo-fino-almacen-casa-segal-mendoza.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Huevos",
+    "marca": "Avícola del Sol",
+    "precio": 1100,
+    "categoria": "huevos",
+    "codigo_barra": "779000112233",
+    "tipo": "granja",
+    "atributos": ["fuente de proteína", "sin TACC"],
+    "imagen": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/3520001_f.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Manzanas",
+    "marca": "Frutas del Valle",
+    "precio": 760,
+    "categoria": "frutas",
+    "codigo_barra": "779998877665",
+    "tipo": "roja",
+    "atributos": ["natural", "sin conservantes"],
+    "imagen": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": 8,
+    "nombre": "Cerveza rubia",
+    "marca": "Quilmes",
+    "precio": 950,
+    "categoria": "bebidas alcohólicas",
+    "codigo_barra": "779123789456",
+    "tipo": "rubia",
+    "atributos": ["con alcohol", "sin TACC"],
+    "imagen": "https://shop.gustoargentino.com/cdn/shop/products/Cerveza-Rubia-Lager-Botella-Quilmes-34cl.png?v=1741175524"
+  },
+  {
+    "id": 9,
+    "nombre": "Yerba mate",
+    "marca": "Taragüi",
+    "precio": 1300,
+    "categoria": "infusiones",
+    "codigo_barra": "779445566778",
+    "tipo": "clásica",
+    "atributos": ["energizante natural", "sin TACC"],
+    "imagen": "https://hiperlibertad.vtexassets.com/arquivos/ids/224445-800-auto?v=638508765710030000&width=800&height=auto&aspect=true"
+  },
+  {
+    "id": 10,
+    "nombre": "Aceite de girasol",
+    "marca": "Natura",
+    "precio": 1200,
+    "categoria": "aceites",
+    "codigo_barra": "779556677889",
+    "tipo": "girasol",
+    "atributos": ["rico en vitamina E", "sin TACC"],
+    "imagen": "https://arcordiezb2c.vteximg.com.br/arquivos/ids/157621/ACEITE-NATURA-GIRASOL-1-1114.jpg?v=637432181820300000"
+  }
+]

@@ -1,0 +1,143 @@
+.ekom-sidebar-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(30,40,50,0.13);
+  z-index: 2500;
+  display: flex;
+  justify-content: flex-end;
+}
+.ekom-cart-sidebar {
+  width: 340px;
+  max-width: 95vw;
+  height: 100vh;
+  background: #fff;
+  box-shadow: -4px 0 32px 0 rgba(47,128,237,0.16);
+  display: flex;
+  flex-direction: column;
+  border-radius: 18px 0 0 18px;
+  animation: slideInSidebar 0.23s;
+  position: relative;
+}
+@keyframes slideInSidebar {
+  from { transform: translateX(100%);}
+  to { transform: translateX(0);}
+}
+.ekom-cart-sidebar__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 26px 24px 8px;
+  border-bottom: 1px solid #eee;
+}
+.ekom-cart-sidebar__header h3 {
+  margin: 0;
+  font-size: 1.17rem;
+  font-weight: 800;
+}
+.close-btn {
+  background: none;
+  border: none;
+  font-size: 1.65rem;
+  line-height: 1;
+  color: #999;
+  cursor: pointer;
+  padding: 7px;
+  transition: color 0.14s;
+}
+.close-btn:hover {
+  color: var(--colorAccent, #f2994a);
+}
+.ekom-cart-sidebar__list {
+  flex: 1;
+  overflow-y: auto;
+  padding: 16px 20px 0;
+}
+.ekom-cart-sidebar__item {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  margin-bottom: 19px;
+  border-bottom: 1px solid #f3f3f3;
+  padding-bottom: 9px;
+}
+.ekom-cart-sidebar__item img {
+  width: 54px;
+  height: 54px;
+  object-fit: cover;
+  border-radius: 11px;
+  background: #eee;
+}
+.item-title {
+  font-weight: 700;
+  font-size: 1.04rem;
+  color: var(--colorPrimary, #2f80ed);
+}
+.item-marca {
+  color: #7d8597;
+  font-size: 0.97rem;
+}
+.remove-btn {
+  background: none;
+  border: none;
+  color: #f55;
+  font-size: 0.95rem;
+  cursor: pointer;
+  padding: 0;
+  margin-top: 5px;
+  text-decoration: underline;
+}
+.ekom-cart-sidebar__footer {
+  padding: 18px 24px 24px;
+  border-top: 1px solid #eee;
+  background: #fbfbfd;
+}
+.ekom-cart-sidebar__footer h4 {
+  margin: 0 0 9px;
+  font-weight: 700;
+  font-size: 1.07rem;
+}
+.ekom-cart-sidebar__footer ul {
+  margin: 0;
+  padding-left: 15px;
+}
+.ekom-cart-sidebar__empty {
+  color: #aaa;
+  text-align: center;
+  margin-top: 45px;
+  font-size: 1.2rem;
+}
+
+@media (max-width: 600px) {
+  .ekom-cart-sidebar {
+    width: 99vw;
+    border-radius: 0;
+    min-width: 0;
+  }
+}
+
+.item-cantidad {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: 7px 0 5px 0;
+}
+.cantidad-btn {
+  border: none;
+  background: #e5e7ef;
+  color: #1a1d23;
+  border-radius: 50%;
+  width: 26px;
+  height: 26px;
+  font-size: 1.08rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background 0.15s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cantidad-btn:disabled {
+  background: #eee;
+  color: #bbb;
+  cursor: not-allowed;
+}

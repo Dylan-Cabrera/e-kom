@@ -1,0 +1,112 @@
+.ekom-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 32px 7vw 12px;
+  background: transparent;
+  font-family: 'Montserrat', Arial, sans-serif;
+}
+
+.ekom-navbar__logo {
+  font-size: 2.1rem;
+  font-weight: 700;
+  letter-spacing: -1px;
+  color: var(--colorText, #1a1d23);
+  user-select: none;
+}
+.ekom-navbar__logo span {
+  color: var(--colorAccent, #f2994a);
+}
+
+.ekom-navbar__links {
+  display: flex;
+  gap: 2vw;
+  align-items: center;
+}
+
+.ekom-navbar__link-btn {
+  background: none;
+  border: none;
+  color: var(--colorMuted, #7d8597);
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  font-size: 1.09rem;
+  padding: 4px 12px;
+  border-radius: 8px;
+  transition: color 0.2s, background 0.2s;
+  cursor: pointer;
+}
+
+.ekom-navbar__link-btn.active,
+.ekom-navbar__link-btn:hover {
+  color: var(--colorPrimary, #2f80ed);
+  background: #f2f5f9;
+}
+
+.cta-btn {
+  display: inline-block;
+  padding: 11px 27px;
+  background: var(--colorPrimary, #2f80ed);
+  color: #fff;
+  border-radius: 999px;
+  font-weight: 700;
+  font-size: 1rem;
+  box-shadow: 0 2px 7px 0 rgba(47,128,237,0.11);
+  border: 0;
+  transition: background 0.2s;
+  text-decoration: none;
+  letter-spacing: 0.02em;
+}
+.cta-btn:hover {
+  background: var(--colorAccent, #f2994a);
+  color: var(--colorText, #1a1d23);
+}
+
+/* --- CARRITO --- */
+.ekom-navbar__cart-btn {
+  position: relative;
+  background: none;
+  border: none;
+  margin: 0 10px 0 6px;
+  padding: 7px 14px 7px 14px;
+  font-size: 1.33rem;
+  cursor: pointer;
+  color: var(--colorPrimary, #2f80ed);
+  border-radius: 999px;
+  transition: background 0.19s;
+  display: flex;
+  align-items: center;
+}
+.ekom-navbar__cart-btn:hover {
+  background: #e6f0ff;
+}
+.ekom-navbar__cart-badge {
+  position: absolute;
+  top: 2px;
+  right: 7px;
+  background: var(--colorAccent, #f2994a);
+  color: #fff;
+  border-radius: 50%;
+  padding: 2px 7px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  min-width: 20px;
+  text-align: center;
+  box-shadow: 0 1px 4px 0 #f2994a33;
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Responsive */
+@media (max-width: 700px) {
+  .ekom-navbar {
+    flex-direction: column;
+    align-items: stretch;
+    padding: 20px 5vw 8px;
+    gap: 10px;
+  }
+  .ekom-navbar__links {
+    gap: 11px;
+    justify-content: flex-start;
+  }
+}

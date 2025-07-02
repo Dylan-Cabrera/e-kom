@@ -1,0 +1,52 @@
+.ekom-modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(30,40,50,0.18);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 3000;
+}
+.ekom-modal {
+  background: #fff;
+  padding: 32px 28px 20px;
+  border-radius: 20px;
+  box-shadow: 0 8px 34px 0 rgba(47,128,237,0.16);
+  max-width: 340px;
+  width: 92vw;
+  text-align: center;
+}
+.ekom-modal h3 {
+  margin-bottom: 12px;
+  font-size: 1.3rem;
+}
+.ekom-modal__actions {
+  display: flex;
+  gap: 18px;
+  justify-content: center;
+  margin-top: 18px;
+}
+.ekom-modal__cancel, .ekom-modal__confirm {
+  padding: 9px 21px;
+  border-radius: 999px;
+  border: none;
+  font-weight: 700;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.16s;
+}
+.ekom-modal__cancel {
+  background: #e5e7ef;
+  color: #1a1d23;
+}
+.ekom-modal__cancel:hover {
+  background: #e0e0e0;
+}
+.ekom-modal__confirm {
+  background: var(--colorPrimary, #2f80ed);
+  color: #fff;
+}
+.ekom-modal__confirm:hover {
+  background: var(--colorAccent, #f2994a);
+  color: #1a1d23;
+}
