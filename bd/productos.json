@@ -27,7 +27,7 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://alberdisa.vteximg.com.br/arquivos/ids/174006-1000-1000/Jugo-Tang-Multifruta--x-18-Gr.png?v=638146551929830000"
     },
     {
       "id": 3,
@@ -88,7 +88,7 @@
       "atributos": [],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/3300030_f.jpg"
     },
     {
       "id": 7,
@@ -104,7 +104,7 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/3280031_f.jpg"
     },
     {
       "id": 8,
@@ -119,7 +119,7 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://img2.rtve.es/n/2355440"
     },
     {
       "id": 9,
@@ -163,7 +163,7 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://jumboargentina.vtexassets.com/arquivos/ids/621305-800-600?v=637473138272170000&width=800&height=600&aspect=true"
     },
     {
       "id": 13,
@@ -189,7 +189,7 @@
       "atributos": [],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAXKOE-NEBDDVFR8nrZnoOFPRLysmrflDGzg&s"
     },
     {
       "id": 15,
@@ -236,7 +236,7 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://www.recetasnestlecam.com/sites/default/files/2022-04/tipos-de-manzana-royal-gala.jpg"
     },
     {
       "id": 19,
@@ -267,7 +267,7 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://acdn-us.mitiendanube.com/stores/798/865/products/30279408-961f6991bb425e6b1516639383181248-1024-1024.jpg"
     },
     {
       "id": 21,
@@ -297,7 +297,7 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg"
     },
     {
       "id": 23,
@@ -312,7 +312,7 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://acdn-us.mitiendanube.com/stores/001/157/846/products/te-virginia1-bb9435bb9c0f1e83ad15876567102839-1024-1024.jpg"
     },
     {
       "id": 24,
@@ -328,7 +328,7 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg"
     },
     {
       "id": 25,
@@ -341,7 +341,7 @@
       "atributos": [],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg"
     },
     {
       "id": 28,
@@ -356,7 +356,7 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/3300030_f.jpg"
     },
     {
       "id": 29,
@@ -380,11 +380,11 @@
       "codigo_barra": "779738142588",
       "tipo": "untable",
       "atributos": [
-        "vegano"
+       
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://jumboargentina.vtexassets.com/arquivos/ids/774483/Queso-Crema-Clasico-Tregar-280g-1-947604.jpg?v=638150854079900000"
     },
     {
       "id": 31,
@@ -412,7 +412,7 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg"
     },
     {
       "id": 33,
@@ -470,7 +470,7 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://acdn-us.mitiendanube.com/stores/001/157/846/products/te-virginia1-bb9435bb9c0f1e83ad15876567102839-1024-1024.jpg"
     },
     {
       "id": 38,
@@ -485,7 +485,7 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://www.recetasnestlecam.com/sites/default/files/2022-04/tipos-de-manzana-royal-gala.jpg"
     },
     {
       "id": 39,
@@ -500,7 +500,7 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://www.recetasamc.info/sites/default/files/styles/max_width_1000/public/migrate/ingredient-wiki/1524656366-amc-wiki-id2706-image40.png?itok=4fcdsqkp"
     },
     {
       "id": 40,
@@ -516,7 +516,7 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://img2.rtve.es/n/2355440"
     },
     {
       "id": 41,
@@ -531,7 +531,7 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://www.casa-segal.com/wp-content/uploads/2021/01/tang-naranja-18-g-ofertas-en-mendoza-casa-segal.jpg"
     },
     {
       "id": 42,
@@ -557,7 +557,7 @@
       "atributos": [],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://acdn-us.mitiendanube.com/stores/093/780/products/serenisima-clasica-751-95fea92d1a27f8e9ab15710914346750-480-0.png"
     },
     {
       "id": 44,
@@ -589,12 +589,12 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://eqonatura.com/wp-content/uploads/2018/07/mermeladas-bc.jpg"
     },
     {
       "id": 46,
       "nombre": "Zanahorias",
-      "marca": "Frutas del Valle",
+      "marca": "San Ignacio",
       "precio": 643,
       "categoria": "verduras",
       "codigo_barra": "779781999312",
@@ -602,7 +602,7 @@
       "atributos": [],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://img2.rtve.es/n/2355440"
     },
     {
       "id": 47,
@@ -691,7 +691,7 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://jumboargentina.vtexassets.com/arquivos/ids/695328/T-Green-Hills-25-Saquitos-1-3388.jpg?v=637848777637100000"
     },
     {
       "id": 53,
@@ -720,7 +720,7 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://jumboargentina.vtexassets.com/arquivos/ids/800264-800-600?v=638826492568330000&width=800&height=600&aspect=true"
     },
     {
       "id": 55,
@@ -765,7 +765,7 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://alberdisa.vteximg.com.br/arquivos/ids/174006-1000-1000/Jugo-Tang-Multifruta--x-18-Gr.png?v=638146551929830000"
     },
     {
       "id": 103,
@@ -826,7 +826,7 @@
       "atributos": [],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/3300030_f.jpg"
     },
     {
       "id": 107,
@@ -842,12 +842,12 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/3280031_f.jpg"
     },
     {
       "id": 108,
       "nombre": "Zanahorias",
-      "marca": "Frutas del Valle",
+      "marca": "San Ignacio",
       "precio": 1,
       "categoria": "verduras",
       "codigo_barra": "779366058762",
@@ -857,7 +857,7 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://img2.rtve.es/n/2355440"
     },
     {
       "id": 109,
@@ -901,7 +901,7 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://jumboargentina.vtexassets.com/arquivos/ids/621305-800-600?v=637473138272170000&width=800&height=600&aspect=true"
     },
     {
       "id": 112,
@@ -927,7 +927,7 @@
       "atributos": [],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAXKOE-NEBDDVFR8nrZnoOFPRLysmrflDGzg&s"
     },
     {
       "id": 114,
@@ -974,7 +974,7 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://www.recetasnestlecam.com/sites/default/files/2022-04/tipos-de-manzana-royal-gala.jpg"
     },
     {
       "id": 117,
@@ -1005,7 +1005,7 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://acdn-us.mitiendanube.com/stores/798/865/products/30279408-961f6991bb425e6b1516639383181248-1024-1024.jpg"
     },
     {
       "id": 119,
@@ -1035,7 +1035,7 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg"
     },
     {
       "id": 121,
@@ -1050,7 +1050,7 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://acdn-us.mitiendanube.com/stores/001/157/846/products/te-virginia1-bb9435bb9c0f1e83ad15876567102839-1024-1024.jpg"
     },
     {
       "id": 122,
@@ -1066,7 +1066,7 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg"
     },
     {
       "id": 123,
@@ -1079,7 +1079,7 @@
       "atributos": [],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg"
     },
     {
       "id": 124,
@@ -1094,7 +1094,7 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/3300030_f.jpg"
     },
     {
       "id": 125,
@@ -1118,11 +1118,11 @@
       "codigo_barra": "779738142588",
       "tipo": "untable",
       "atributos": [
-        "vegano"
+        
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://jumboargentina.vtexassets.com/arquivos/ids/774483/Queso-Crema-Clasico-Tregar-280g-1-947604.jpg?v=638150854079900000"
     },
     {
       "id": 127,
@@ -1133,11 +1133,11 @@
       "codigo_barra": "779738142588",
       "tipo": "untable",
       "atributos": [
-        "vegano"
+      
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://jumboargentina.vtexassets.com/arquivos/ids/774483/Queso-Crema-Clasico-Tregar-280g-1-947604.jpg?v=638150854079900000"
     },
     {
       "id": 128,
@@ -1178,7 +1178,7 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg"
     },
     {
       "id": 131,
@@ -1193,7 +1193,7 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg"
     },
     {
       "id": 132,
@@ -1293,7 +1293,7 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://acdn-us.mitiendanube.com/stores/001/157/846/products/te-virginia1-bb9435bb9c0f1e83ad15876567102839-1024-1024.jpg"
     },
     {
       "id": 139,
@@ -1309,7 +1309,7 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://acdn-us.mitiendanube.com/stores/001/157/846/products/te-virginia1-bb9435bb9c0f1e83ad15876567102839-1024-1024.jpg"
     },
     {
       "id": 140,
@@ -1324,7 +1324,7 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://www.recetasnestlecam.com/sites/default/files/2022-04/tipos-de-manzana-royal-gala.jpg"
     },
     {
       "id": 141,
@@ -1339,7 +1339,7 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://www.recetasnestlecam.com/sites/default/files/2022-04/tipos-de-manzana-royal-gala.jpg"
     },
     {
       "id": 142,
@@ -1354,7 +1354,7 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://www.recetasamc.info/sites/default/files/styles/max_width_1000/public/migrate/ingredient-wiki/1524656366-amc-wiki-id2706-image40.png?itok=4fcdsqkp"
     },
     {
       "id": 143,
@@ -1369,7 +1369,7 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://www.recetasamc.info/sites/default/files/styles/max_width_1000/public/migrate/ingredient-wiki/1524656366-amc-wiki-id2706-image40.png?itok=4fcdsqkp"
     },
     {
       "id": 144,
@@ -1385,12 +1385,12 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://img2.rtve.es/n/2355440"
     },
     {
       "id": 145,
       "nombre": "Zanahorias",
-      "marca": "Frutas del Valle",
+      "marca": "San Jorge",
       "precio": 3461,
       "categoria": "verduras",
       "codigo_barra": "779435335771",
@@ -1401,7 +1401,7 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://img2.rtve.es/n/2355440"
     },
     {
       "id": 146,
@@ -1416,7 +1416,7 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://www.casa-segal.com/wp-content/uploads/2021/01/tang-naranja-18-g-ofertas-en-mendoza-casa-segal.jpg"
     },
     {
       "id": 147,
@@ -1431,7 +1431,7 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://www.casa-segal.com/wp-content/uploads/2021/01/tang-naranja-18-g-ofertas-en-mendoza-casa-segal.jpg"
     },
     {
       "id": 148,
@@ -1470,7 +1470,7 @@
       "atributos": [],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://acdn-us.mitiendanube.com/stores/093/780/products/serenisima-clasica-751-95fea92d1a27f8e9ab15710914346750-480-0.png"
     },
     {
       "id": 151,
@@ -1483,7 +1483,7 @@
       "atributos": [],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://acdn-us.mitiendanube.com/stores/093/780/products/serenisima-clasica-751-95fea92d1a27f8e9ab15710914346750-480-0.png"
     },
     {
       "id": 152,
@@ -1531,7 +1531,7 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://eqonatura.com/wp-content/uploads/2018/07/mermeladas-bc.jpg"
     },
     {
       "id": 155,
@@ -1547,12 +1547,12 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://eqonatura.com/wp-content/uploads/2018/07/mermeladas-bc.jpg"
     },
     {
       "id": 156,
       "nombre": "Zanahorias",
-      "marca": "Frutas del Valle",
+      "marca": "San Jorge",
       "precio": 3452,
       "categoria": "verduras",
       "codigo_barra": "779781999312",
@@ -1560,7 +1560,7 @@
       "atributos": [],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://img2.rtve.es/n/2355440"
     },
     {
       "id": 157,
@@ -1573,12 +1573,12 @@
       "atributos": [],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://img2.rtve.es/n/2355440"
     },
     {
       "id": 158,
       "nombre": "Zanahorias",
-      "marca": "Frutas del Valle",
+      "marca": "San Ignacio",
       "precio": 3323,
       "categoria": "verduras",
       "codigo_barra": "779781999312",
@@ -1586,7 +1586,7 @@
       "atributos": [],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://img2.rtve.es/n/2355440"
     },
     {
       "id": 159,
@@ -1823,7 +1823,7 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://jumboargentina.vtexassets.com/arquivos/ids/695328/T-Green-Hills-25-Saquitos-1-3388.jpg?v=637848777637100000"
     },
     {
       "id": 175,
@@ -1838,7 +1838,7 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://jumboargentina.vtexassets.com/arquivos/ids/695328/T-Green-Hills-25-Saquitos-1-3388.jpg?v=637848777637100000"
     },
     {
       "id": 176,
@@ -1853,7 +1853,7 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://jumboargentina.vtexassets.com/arquivos/ids/695328/T-Green-Hills-25-Saquitos-1-3388.jpg?v=637848777637100000"
     },
     {
       "id": 177,
@@ -1908,7 +1908,7 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://jumboargentina.vtexassets.com/arquivos/ids/800264-800-600?v=638826492568330000&width=800&height=600&aspect=true"
     },
     {
       "id": 181,
@@ -1924,7 +1924,7 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://jumboargentina.vtexassets.com/arquivos/ids/800264-800-600?v=638826492568330000&width=800&height=600&aspect=true"
     },
     {
       "id": 182,
@@ -1940,7 +1940,7 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://jumboargentina.vtexassets.com/arquivos/ids/800264-800-600?v=638826492568330000&width=800&height=600&aspect=true"
     },
     {
       "id": 183,
@@ -2005,7 +2005,7 @@
       "id": 186,
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://elbanquito.com.ar/wp-content/uploads/2024/12/NotCo-NotMilk-Sin-Azucar-x-1L.jpg"
     },
     {
       "nombre": "Leche vegetal",
@@ -2022,7 +2022,7 @@
       "id": 187,
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://elbanquito.com.ar/wp-content/uploads/2024/12/NotCo-NotMilk-Sin-Azucar-x-1L.jpg"
     },
     {
       "nombre": "Leche vegetal",
@@ -2039,7 +2039,7 @@
       "id": 188,
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://elbanquito.com.ar/wp-content/uploads/2024/12/NotCo-NotMilk-Sin-Azucar-x-1L.jpg"
     },
     {
       "nombre": "Hamburguesa vegetal",
@@ -2102,7 +2102,7 @@
       "id": 192,
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://cdn2.notco.com/uploads/products/_480x640_fit_center-center_85_none/324557/squeeze-original2_0.webp"
     },
     {
       "nombre": "Mayonesa vegetal",
@@ -2117,7 +2117,7 @@
       "id": 193,
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://cdn2.notco.com/uploads/products/_480x640_fit_center-center_85_none/324557/squeeze-original2_0.webp"
     },
     {
       "nombre": "Mayonesa vegetal",
@@ -2132,7 +2132,7 @@
       "id": 194,
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://cdn2.notco.com/uploads/products/_480x640_fit_center-center_85_none/324557/squeeze-original2_0.webp"
     },
     {
       "nombre": "Helado vegetal",
@@ -2188,7 +2188,7 @@
       "precio": 2780,
       "categoria": "lácteos",
       "codigo_barra": "779000001017",
-      "tipo": "rallado",
+      "tipo": "",
       "atributos": [
         "sin TACC",
         "vegano"
@@ -2196,7 +2196,7 @@
       "id": 198,
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://ardiaprod.vtexassets.com/arquivos/ids/339708/Notcheese-Dambo-Notco-140-Gr-_1.jpg?v=638689303577670000"
     },
     {
       "nombre": "Queso vegetal",
@@ -2204,7 +2204,7 @@
       "precio": 2780,
       "categoria": "lácteos",
       "codigo_barra": "779000001018",
-      "tipo": "rallado",
+      "tipo": "",
       "atributos": [
         "sin TACC",
         "vegano"
@@ -2212,7 +2212,7 @@
       "id": 199,
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://ardiaprod.vtexassets.com/arquivos/ids/339708/Notcheese-Dambo-Notco-140-Gr-_1.jpg?v=638689303577670000"
     },
     {
       "nombre": "Queso vegetal",
@@ -2220,7 +2220,7 @@
       "precio": 2780,
       "categoria": "lácteos",
       "codigo_barra": "779000001019",
-      "tipo": "rallado",
+      "tipo": "",
       "atributos": [
         "sin TACC",
         "vegano"
@@ -2228,7 +2228,7 @@
       "id": 200,
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "image": ""
+      "image": "https://ardiaprod.vtexassets.com/arquivos/ids/339708/Notcheese-Dambo-Notco-140-Gr-_1.jpg?v=638689303577670000"
     }
   ]
 }
