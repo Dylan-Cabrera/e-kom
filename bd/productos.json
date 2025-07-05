@@ -8,10 +8,10 @@
       "categoria": "carnes",
       "codigo_barra": "779746656615",
       "tipo": "",
-      "atributos": [
-        "vegano",
-        "apto diabéticos"
-      ]
+      "supermercado": "Caceres",
+      "atributos": [],
+      "categoria_super": "supermercado",
+      "image": "acavalaurlxd"
     },
     {
       "id": 2,
@@ -24,20 +24,26 @@
       "atributos": [
         "bajo sodio",
         "sin TACC"
-      ]
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 3,
       "nombre": "Crema",
       "marca": "Tregar",
       "precio": 1965,
-      "categoria": "lácteos",      
+      "categoria": "lácteos",
       "codigo_barra": "779231101116",
       "tipo": "",
       "atributos": [
         "sin TACC",
         "bajo sodio"
-      ]
+      ],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 4,
@@ -50,7 +56,10 @@
       "atributos": [
         "sin TACC",
         "orgánico"
-      ]
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 5,
@@ -63,7 +72,10 @@
       "atributos": [
         "bajo sodio",
         "sin TACC"
-      ]
+      ],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 6,
@@ -73,7 +85,10 @@
       "categoria": "carnes",
       "codigo_barra": "779901942931",
       "tipo": "",
-      "atributos": []
+      "atributos": [],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 7,
@@ -86,74 +101,82 @@
       "atributos": [
         "sin TACC",
         "vegano"
-      ]
+      ],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 8,
       "nombre": "Zanahorias",
       "marca": "Frutas del Valle",
       "precio": 2007,
-      "categoria": "verduras",      
+      "categoria": "verduras",
       "codigo_barra": "779366058762",
       "tipo": "",
       "atributos": [
         "orgánico"
-      ]
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 9,
       "nombre": "Crema",
       "marca": "Tregar",
       "precio": 2445,
-      "categoria": "lácteos",      
+      "categoria": "lácteos",
       "codigo_barra": "779293957972",
       "tipo": "",
-      "atributos": []
+      "atributos": [],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 10,
       "nombre": "Agua",
       "marca": "Eco de los Andes",
       "precio": 557,
-      "categoria": "bebidas",      
+      "categoria": "bebidas",
       "codigo_barra": "779706466809",
       "tipo": "",
       "atributos": [
         "sin TACC",
         "orgánico"
-      ]
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 11,
       "nombre": "Yerba mate",
       "marca": "Taragüi",
       "precio": 396,
-      "categoria": "despensa",      
+      "categoria": "despensa",
       "codigo_barra": "779659429729",
       "tipo": "sin palo",
       "atributos": [
         "vegano"
-      ]
-    },
-    {
-      "id": 12,
-      "nombre": "Vino",
-      "marca": "Estancia Mendoza",
-      "precio": 2586,
-      "categoria": "bebidas alcohólicas",
-      "codigo_barra": "779188272992",
-      "tipo": "",
-      "atributos": []
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 13,
       "nombre": "Arroz",
       "marca": "Molinos Río de la Plata",
       "precio": 353,
-      "categoria": "despensa",      
+      "categoria": "despensa",
       "codigo_barra": "779743089221",
       "tipo": "parboil",
-      "atributos": []
+      "atributos": [],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 14,
@@ -163,7 +186,10 @@
       "categoria": "lácteos",
       "codigo_barra": "779290416304",
       "tipo": "descremada",
-      "atributos": []
+      "atributos": [],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 15,
@@ -176,42 +202,41 @@
       "atributos": [
         "vegano",
         "apto diabéticos"
-      ]
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 16,
       "nombre": "Dulce de leche",
       "marca": "San Ignacio",
       "precio": 2128,
-      "categoria": "dulces",      
+      "categoria": "dulces",
       "codigo_barra": "779413733382",
       "tipo": "clásico",
       "atributos": [
         "sin TACC"
-      ]
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 17,
       "nombre": "Manzanas",
       "marca": "Frutas del Valle",
       "precio": 648,
-      "categoria": "frutas",      
+      "categoria": "frutas",
       "codigo_barra": "779203222399",
       "tipo": "",
       "atributos": [
         "sin TACC",
         "vegano"
-      ]
-    },
-    {
-      "id": 18,
-      "nombre": "Cerveza",
-      "marca": "Andes",
-      "precio": 2314,
-      "categoria": "bebidas alcohólicas",      
-      "codigo_barra": "779271361223",
-      "tipo": "",
-      "atributos": []
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 19,
@@ -223,7 +248,10 @@
       "tipo": "",
       "atributos": [
         "vegano"
-      ]
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 20,
@@ -236,56 +264,71 @@
       "atributos": [
         "apto diabéticos",
         "vegano"
-      ]
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 21,
       "nombre": "Café",
       "marca": "Arlistán",
       "precio": 2747,
-      "categoria": "despensa",      
+      "categoria": "despensa",
       "codigo_barra": "779450671690",
       "tipo": "",
       "atributos": [
         "sin TACC"
-      ]
+      ],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 22,
       "nombre": "Papas",
       "marca": "Campo Claro",
       "precio": 2181,
-      "categoria": "verduras",      
+      "categoria": "verduras",
       "codigo_barra": "779209821914",
       "tipo": "",
       "atributos": [
         "orgánico"
-      ]
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 23,
       "nombre": "Té",
       "marca": "La Virginia",
       "precio": 846,
-      "categoria": "despensa",      
+      "categoria": "despensa",
       "codigo_barra": "779877910397",
       "tipo": "",
       "atributos": [
         "vegano"
-      ]
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 24,
       "nombre": "Papas",
       "marca": "Campo Claro",
       "precio": 2290,
-      "categoria": "verduras",      
+      "categoria": "verduras",
       "codigo_barra": "779937806923",
       "tipo": "",
       "atributos": [
         "apto diabéticos",
         "vegano"
-      ]
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 25,
@@ -295,64 +338,53 @@
       "categoria": "verduras",
       "codigo_barra": "779596253061",
       "tipo": "",
-      "atributos": []
-    },
-    {
-      "id": 26,
-      "nombre": "Pan",
-      "marca": "Bimbo",
-      "precio": 2001,
-      "categoria": "panificados",
-      "codigo_barra": "779227710098",
-      "tipo": "lactal",
-      "atributos": [
-        "bajo sodio",
-        "orgánico"
-      ]
-    },
-    {
-      "id": 27,
-      "nombre": "Vino",
-      "marca": "Trapiche",
-      "precio": 1848,
-      "categoria": "bebidas alcohólicas",
-      "codigo_barra": "779888963228",
-      "tipo": "",
-      "atributos": []
+      "atributos": [],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 28,
       "nombre": "Pollo",
       "marca": "Paty",
       "precio": 2076,
-      "categoria": "carnes",      
+      "categoria": "carnes",
       "codigo_barra": "779817617265",
       "tipo": "",
       "atributos": [
         "sin TACC"
-      ]
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 29,
       "nombre": "Café",
       "marca": "Nescafé",
       "precio": 557,
-      "categoria": "despensa",      
+      "categoria": "despensa",
       "codigo_barra": "779909691407",
       "tipo": "",
-      "atributos": []
+      "atributos": [],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 30,
       "nombre": "Queso",
       "marca": "Tregar",
       "precio": 760,
-      "categoria": "lácteos",     
+      "categoria": "lácteos",
       "codigo_barra": "779738142588",
       "tipo": "untable",
       "atributos": [
         "vegano"
-      ]
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 31,
@@ -362,7 +394,10 @@
       "categoria": "despensa",
       "codigo_barra": "779408590386",
       "tipo": "largo fino",
-      "atributos": []
+      "atributos": [],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 32,
@@ -374,7 +409,10 @@
       "tipo": "",
       "atributos": [
         "orgánico"
-      ]
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 33,
@@ -384,30 +422,26 @@
       "categoria": "dulces",
       "codigo_barra": "779124377409",
       "tipo": "repostero",
-      "atributos": []
+      "atributos": [],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 34,
       "nombre": "Cebollas",
       "marca": "Campo Claro",
       "precio": 2183,
-      "categoria": "verduras",      
+      "categoria": "verduras",
       "codigo_barra": "779938677491",
       "tipo": "",
       "atributos": [
         "sin TACC",
         "orgánico"
-      ]
-    },
-    {
-      "id": 35,
-      "nombre": "Vino",
-      "marca": "Norton",
-      "precio": 1492,
-      "categoria": "bebidas alcohólicas",
-      "codigo_barra": "779631424258",
-      "tipo": "",
-      "atributos": []
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 36,
@@ -417,7 +451,10 @@
       "categoria": "bebidas",
       "codigo_barra": "779375057847",
       "tipo": "",
-      "atributos": []
+      "atributos": [],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 37,
@@ -430,19 +467,25 @@
       "atributos": [
         "orgánico",
         "vegano"
-      ]
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 38,
       "nombre": "Manzanas",
       "marca": "San Ignacio",
       "precio": 370,
-      "categoria": "frutas",      
+      "categoria": "frutas",
       "codigo_barra": "779571022220",
       "tipo": "",
       "atributos": [
         "vegano"
-      ]
+      ],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 39,
@@ -454,7 +497,10 @@
       "tipo": "",
       "atributos": [
         "vegano"
-      ]
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 40,
@@ -467,7 +513,10 @@
       "atributos": [
         "bajo sodio",
         "vegano"
-      ]
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 41,
@@ -479,27 +528,36 @@
       "tipo": "naranja",
       "atributos": [
         "bajo sodio"
-      ]
+      ],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 42,
       "nombre": "Aceite",
       "marca": "Marolio",
       "precio": 2259,
-      "categoria": "despensa",      
+      "categoria": "despensa",
       "codigo_barra": "779127115272",
       "tipo": "",
-      "atributos": []
+      "atributos": [],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 43,
       "nombre": "Leche",
       "marca": "La Serenísima",
       "precio": 682,
-      "categoria": "lácteos",      
+      "categoria": "lácteos",
       "codigo_barra": "779474048886",
       "tipo": "entera",
-      "atributos": []
+      "atributos": [],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 44,
@@ -512,20 +570,26 @@
       "atributos": [
         "orgánico",
         "vegano"
-      ]
+      ],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 45,
       "nombre": "Mermelada",
       "marca": "BC",
       "precio": 1592,
-      "categoria": "dulces",      
+      "categoria": "dulces",
       "codigo_barra": "779841067069",
       "tipo": "",
       "atributos": [
         "bajo sodio",
         "orgánico"
-      ]
+      ],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 46,
@@ -535,17 +599,23 @@
       "categoria": "verduras",
       "codigo_barra": "779781999312",
       "tipo": "",
-      "atributos": []
+      "atributos": [],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 47,
       "nombre": "Gaseosa",
       "marca": "Manaos",
       "precio": 1908,
-      "categoria": "bebidas",      
+      "categoria": "bebidas",
       "codigo_barra": "779305837175",
       "tipo": "",
-      "atributos": []
+      "atributos": [],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 48,
@@ -558,7 +628,10 @@
       "atributos": [
         "orgánico",
         "vegano"
-      ]
+      ],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 49,
@@ -571,7 +644,10 @@
       "atributos": [
         "bajo sodio",
         "vegano"
-      ]
+      ],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 50,
@@ -581,7 +657,10 @@
       "categoria": "pastas",
       "codigo_barra": "779223786477",
       "tipo": "spaghetti",
-      "atributos": []
+      "atributos": [],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 51,
@@ -594,7 +673,10 @@
       "atributos": [
         "sin TACC",
         "vegano"
-      ]
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 52,
@@ -606,7 +688,10 @@
       "tipo": "",
       "atributos": [
         "orgánico"
-      ]
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 53,
@@ -616,7 +701,10 @@
       "categoria": "carnes",
       "codigo_barra": "779126260376",
       "tipo": "",
-      "atributos": []
+      "atributos": [],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 54,
@@ -629,562 +717,1518 @@
       "atributos": [
         "apto diabéticos",
         "vegano"
-      ]
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
       "id": 55,
       "nombre": "Agua",
       "marca": "Villavicencio",
       "precio": 2047,
-      "categoria": "bebidas",      
+      "categoria": "bebidas",
       "codigo_barra": "779363687185",
       "tipo": "",
       "atributos": [
         "bajo sodio",
         "vegano"
-      ]
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
-      "id": 56,
-      "nombre": "Pollo",
-      "marca": "Granja del Sol",
-      "precio": 1294,
+      "id": 101,
+      "nombre": "Carne picada",
+      "marca": "Carnes Argentinas",
+      "precio": 4297,
       "categoria": "carnes",
-      "codigo_barra": "779268595040",
+      "codigo_barra": "779746656615",
       "tipo": "",
-      "atributos": []
+      "supermercado": "Carrefour",
+      "atributos": [],
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
-      "id": 57,
-      "nombre": "Pan",
-      "marca": "Molinos Río de la Plata",
-      "precio": 2460,
-      "categoria": "panificados",
-      "codigo_barra": "779697727136",
-      "tipo": "con semillas",
-      "atributos": [
-        "orgánico",
-        "apto diabéticos"
-      ]
-    },
-    {
-      "id": 58,
-      "nombre": "Cerveza",
-      "marca": "Brahma",
-      "precio": 1224,
-      "categoria": "bebidas alcohólicas",      
-      "codigo_barra": "779549038979",
-      "tipo": "",
-      "atributos": []
-    },
-    {
-      "id": 59,
-      "nombre": "Dulce de leche",
-      "marca": "Chimbote",
-      "precio": 2756,
-      "categoria": "dulces",
-      "codigo_barra": "779860443745",
-      "tipo": "repostero",
-      "atributos": [
-        "vegano",
-        "sin TACC"
-      ]
-    },
-    {
-      "id": 60,
-      "nombre": "Harina",
-      "marca": "Marolio",
-      "precio": 2032,
-      "categoria": "despensa",      
-      "codigo_barra": "779966334986",
-      "tipo": "",
-      "atributos": [
-        "sin TACC"
-      ]
-    },
-    {
-      "id": 61,
-      "nombre": "Aceite",
-      "marca": "Marolio",
-      "precio": 1148,
-      "categoria": "despensa",      
-      "codigo_barra": "779153889939",
-      "tipo": "",
-      "atributos": [
-        "vegano",
-        "apto diabéticos"
-      ]
-    },
-    {
-      "id": 62,
-      "nombre": "Queso",
-      "marca": "Tregar",
-      "precio": 1780,
-      "categoria": "lácteos",
-      "codigo_barra": "779889095036",
-      "tipo": "muzzarella",
-      "atributos": [
-        "apto diabéticos"
-      ]
-    },
-    {
-      "id": 63,
-      "nombre": "Té",
-      "marca": "La Virginia",
-      "precio": 2422,
-      "categoria": "despensa",
-      "codigo_barra": "779304065937",
-      "tipo": "",
-      "atributos": [
-        "apto diabéticos"
-      ]
-    },
-    {
-      "id": 64,
-      "nombre": "Manteca",
-      "marca": "Tregar",
-      "precio": 1981,
-      "categoria": "lácteos",      
-      "codigo_barra": "779839169983",
-      "tipo": "",
-      "atributos": [
-        "bajo sodio",
-        "sin TACC"
-      ]
-    },
-    {
-      "id": 65,
-      "nombre": "Arroz",
-      "marca": "Gallo",
-      "precio": 413,
-      "categoria": "despensa",      
-      "codigo_barra": "779799411455",
-      "tipo": "largo fino",
-      "atributos": [
-        "bajo sodio",
-        "sin TACC"
-      ]
-    },
-    {
-      "id": 66,
-      "nombre": "Crema",
-      "marca": "Tregar",
-      "precio": 1432,
-      "categoria": "lácteos",      
-      "codigo_barra": "779242355266",
-      "tipo": "",
-      "atributos": [
-        "orgánico",
-        "bajo sodio"
-      ]
-    },
-    {
-      "id": 67,
-      "nombre": "Pan",
-      "marca": "Bimbo",
-      "precio": 458,
-      "categoria": "panificados",
-      "codigo_barra": "779377033001",
-      "tipo": "integral",
-      "atributos": [
-        "orgánico",
-        "bajo sodio"
-      ]
-    },
-    {
-      "id": 68,
-      "nombre": "Harina",
-      "marca": "Morixe",
-      "precio": 574,
-      "categoria": "despensa",      
-      "codigo_barra": "779658498086",
-      "tipo": "",
-      "atributos": [
-        "orgánico"
-      ]
-    },
-    {
-      "id": 69,
-      "nombre": "Salchichas",
-      "marca": "Swift",
-      "precio": 2550,
-      "categoria": "carnes",      
-      "codigo_barra": "779450761768",
-      "tipo": "",
-      "atributos": [
-        "apto diabéticos",
-        "sin TACC"
-      ]
-    },
-    {
-      "id": 70,
-      "nombre": "Huevos",
-      "marca": "Granja Tres Arroyos",
-      "precio": 890,
-      "categoria": "lácteos",
-      "codigo_barra": "779587725808",
-      "tipo": "",
-      "atributos": [
-        "vegano",
-        "sin TACC"
-      ]
-    },
-    {
-      "id": 71,
-      "nombre": "Arroz",
-      "marca": "Gallo",
-      "precio": 313,
-      "categoria": "despensa",
-      "codigo_barra": "779978969553",
-      "tipo": "largo fino",
-      "atributos": []
-    },
-    {
-      "id": 72,
+      "id": 102,
       "nombre": "Jugo",
       "marca": "Tang",
-      "precio": 2025,
-      "categoria": "bebidas",      
-      "codigo_barra": "779426500737",
+      "precio": 1,
+      "categoria": "bebidas",
+      "codigo_barra": "779701940021",
       "tipo": "multifruta",
       "atributos": [
-        "bajo sodio"
-      ]
-    },
-    {
-      "id": 73,
-      "nombre": "Arroz",
-      "marca": "Gallo",
-      "precio": 2606,
-      "categoria": "despensa",
-      "codigo_barra": "779557990229",
-      "tipo": "largo fino",
-      "atributos": []
-    },
-    {
-      "id": 74,
-      "nombre": "Papas",
-      "marca": "Campo Claro",
-      "precio": 1720,
-      "categoria": "verduras",
-      "codigo_barra": "779302927354",
-      "tipo": "",
-      "atributos": [
         "bajo sodio",
         "sin TACC"
-      ]
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
-      "id": 75,
-      "nombre": "Bananas",
-      "marca": "Frutas del Valle",
-      "precio": 2546,
-      "categoria": "frutas",
-      "codigo_barra": "779317521577",
+      "id": 103,
+      "nombre": "Crema",
+      "marca": "Tregar",
+      "precio": 4750,
+      "categoria": "lácteos",
+      "codigo_barra": "779231101116",
       "tipo": "",
-      "atributos": [
-        "apto diabéticos",
-        "bajo sodio"
-      ]
-    },
-    {
-      "id": 76,
-      "nombre": "Carne picada",
-      "marca": "La Anónima",
-      "precio": 914,
-      "categoria": "carnes",      
-      "codigo_barra": "779904220200",
-      "tipo": "",
-      "atributos": [
-        "sin TACC"
-      ]
-    },
-    {
-      "id": 77,
-      "nombre": "Agua",
-      "marca": "Eco de los Andes",
-      "precio": 1662,
-      "categoria": "bebidas",
-      "codigo_barra": "779102312549",
-      "tipo": "",
-      "atributos": [
-        "sin TACC"
-      ]
-    },
-    {
-      "id": 78,
-      "nombre": "Arroz",
-      "marca": "Marolio",
-      "precio": 969,
-      "categoria": "despensa",
-      "codigo_barra": "779305329046",
-      "tipo": "parboil",
-      "atributos": [
-        "bajo sodio",
-        "sin TACC"
-      ]
-    },
-    {
-      "id": 79,
-      "nombre": "Azúcar",
-      "marca": "Ledesma",
-      "precio": 854,
-      "categoria": "despensa",
-      "codigo_barra": "779819348789",
-      "tipo": "",
-      "atributos": []
-    },
-    {
-      "id": 80,
-      "nombre": "Jugo",
-      "marca": "Tang",
-      "precio": 2402,
-      "categoria": "bebidas",
-      "codigo_barra": "779417130052",
-      "tipo": "naranja",
       "atributos": [
         "sin TACC",
         "bajo sodio"
-      ]
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
-      "id": 81,
-      "nombre": "Cebollas",
-      "marca": "Frutas del Valle",
-      "precio": 2281,
-      "categoria": "verduras",
-      "codigo_barra": "779982319058",
-      "tipo": "",
-      "atributos": [
-        "vegano",
-        "sin TACC"
-      ]
-    },
-    {
-      "id": 82,
-      "nombre": "Yerba mate",
-      "marca": "Nobleza Gaucha",
-      "precio": 1290,
-      "categoria": "despensa",
-      "codigo_barra": "779881487419",
-      "tipo": "sin palo",
-      "atributos": []
-    },
-    {
-      "id": 83,
+      "id": 104,
       "nombre": "Dulce de leche",
-      "marca": "La Serenísima",
-      "precio": 328,
-      "categoria": "dulces",
-      "codigo_barra": "779398320468",
-      "tipo": "light",
-      "atributos": [
-        "apto diabéticos",
-        "vegano"
-      ]
-    },
-    {
-      "id": 84,
-      "nombre": "Agua",
-      "marca": "Eco de los Andes",
-      "precio": 1484,
-      "categoria": "bebidas",
-      "codigo_barra": "779156683733",
-      "tipo": "",
-      "atributos": [
-        "apto diabéticos",
-        "orgánico"
-      ]
-    },
-    {
-      "id": 85,
-      "nombre": "Manteca",
-      "marca": "Tregar",
-      "precio": 2254,
-      "categoria": "lácteos",      
-      "codigo_barra": "779920883508",
-      "tipo": "",
-      "atributos": []
-    },
-    {
-      "id": 86,
-      "nombre": "Huevos",
-      "marca": "Granja Tres Arroyos",
-      "precio": 1262,
-      "categoria": "lácteos",      
-      "codigo_barra": "779203432657",
-      "tipo": "",
-      "atributos": [
-        "orgánico"
-      ]
-    },
-    {
-      "id": 87,
-      "nombre": "Cerveza",
-      "marca": "Andes",
-      "precio": 2984,
-      "categoria": "bebidas alcohólicas",      
-      "codigo_barra": "779577393776",
-      "tipo": "",
-      "atributos": [
-        "sin TACC"
-      ]
-    },
-    {
-      "id": 88,
-      "nombre": "Azúcar",
-      "marca": "Marolio",
-      "precio": 2041,
-      "categoria": "despensa",      
-      "codigo_barra": "779172681952",
-      "tipo": "",
-      "atributos": [
-        "vegano"
-      ]
-    },
-    {
-      "id": 89,
-      "nombre": "Zanahorias",
-      "marca": "Frutas del Valle",
-      "precio": 2677,
-      "categoria": "verduras",
-      "codigo_barra": "779811575874",
-      "tipo": "",
-      "atributos": [
-        "vegano"
-      ]
-    },
-    {
-      "id": 90,
-      "nombre": "Salchichas",
-      "marca": "Swift",
-      "precio": 2322,
-      "categoria": "carnes",
-      "codigo_barra": "779665832536",
-      "tipo": "",
-      "atributos": [
-        "orgánico"
-      ]
-    },
-    {
-      "id": 91,
-      "nombre": "Manzanas",
       "marca": "San Ignacio",
-      "precio": 657,
-      "categoria": "frutas",      
-      "codigo_barra": "779707110502",
-      "tipo": "",
+      "precio": 1,
+      "categoria": "dulces",
+      "codigo_barra": "779631697191",
+      "tipo": "clásico",
       "atributos": [
-        "orgánico",
-        "apto diabéticos"
-      ]
+        "sin TACC",
+        "orgánico"
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
-      "id": 92,
-      "nombre": "Harina",
-      "marca": "Molinos Río de la Plata",
-      "precio": 2859,
-      "categoria": "despensa",
-      "codigo_barra": "779499825443",
+      "id": 105,
+      "nombre": "Agua",
+      "marca": "Glaciar",
+      "precio": 2014,
+      "categoria": "bebidas",
+      "codigo_barra": "779231064070",
       "tipo": "",
       "atributos": [
         "bajo sodio",
-        "vegano"
-      ]
+        "sin TACC"
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
-      "id": 93,
+      "id": 106,
       "nombre": "Pollo",
       "marca": "Paty",
-      "precio": 1832,
-      "categoria": "carnes",      
-      "codigo_barra": "779110257716",
+      "precio": 1,
+      "categoria": "carnes",
+      "codigo_barra": "779901942931",
       "tipo": "",
-      "atributos": []
+      "atributos": [],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
-      "id": 94,
-      "nombre": "Jugo",
-      "marca": "Cepita",
-      "precio": 1242,
+      "id": 107,
+      "nombre": "Salchichas",
+      "marca": "Paladini",
+      "precio": 3838,
+      "categoria": "carnes",
+      "codigo_barra": "779857947863",
+      "tipo": "",
+      "atributos": [
+        "sin TACC",
+        "vegano"
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 108,
+      "nombre": "Zanahorias",
+      "marca": "Frutas del Valle",
+      "precio": 1,
+      "categoria": "verduras",
+      "codigo_barra": "779366058762",
+      "tipo": "",
+      "atributos": [
+        "orgánico"
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 109,
+      "nombre": "Crema",
+      "marca": "Tregar",
+      "precio": 2906,
+      "categoria": "lácteos",
+      "codigo_barra": "779293957972",
+      "tipo": "",
+      "atributos": [],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 110,
+      "nombre": "Agua",
+      "marca": "Eco de los Andes",
+      "precio": 1669,
       "categoria": "bebidas",
-      "codigo_barra": "779972513773",
-      "tipo": "manzana",
+      "codigo_barra": "779706466809",
+      "tipo": "",
+      "atributos": [
+        "sin TACC",
+        "orgánico"
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 111,
+      "nombre": "Yerba mate",
+      "marca": "Taragüi",
+      "precio": 60,
+      "categoria": "despensa",
+      "codigo_barra": "779659429729",
+      "tipo": "sin palo",
+      "atributos": [
+        "vegano"
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 112,
+      "nombre": "Arroz",
+      "marca": "Molinos Río de la Plata",
+      "precio": 1,
+      "categoria": "despensa",
+      "codigo_barra": "779743089221",
+      "tipo": "parboil",
+      "atributos": [],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 113,
+      "nombre": "Leche",
+      "marca": "Sancor",
+      "precio": 1,
+      "categoria": "lácteos",
+      "codigo_barra": "779290416304",
+      "tipo": "descremada",
+      "atributos": [],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 114,
+      "nombre": "Gaseosa",
+      "marca": "Manaos",
+      "precio": 5118,
+      "categoria": "bebidas",
+      "codigo_barra": "779136276264",
+      "tipo": "",
       "atributos": [
         "vegano",
-        "orgánico"
-      ]
+        "apto diabéticos"
+      ],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
-      "id": 95,
-      "nombre": "Té",
-      "marca": "Green Hills",
-      "precio": 2124,
-      "categoria": "despensa",      
-      "codigo_barra": "779735054582",
+      "id": 115,
+      "nombre": "Dulce de leche",
+      "marca": "San Ignacio",
+      "precio": 749,
+      "categoria": "dulces",
+      "codigo_barra": "779413733382",
+      "tipo": "clásico",
+      "atributos": [
+        "sin TACC"
+      ],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 116,
+      "nombre": "Manzanas",
+      "marca": "Frutas del Valle",
+      "precio": 309,
+      "categoria": "frutas",
+      "codigo_barra": "779203222399",
       "tipo": "",
-      "atributos": []
+      "atributos": [
+        "sin TACC",
+        "vegano"
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
-      "id": 96,
-      "nombre": "Carne picada",
-      "marca": "Carnes Argentinas",
-      "precio": 1715,
-      "categoria": "carnes",      
-      "codigo_barra": "779152931170",
+      "id": 117,
+      "nombre": "Agua",
+      "marca": "Glaciar",
+      "precio": 3754,
+      "categoria": "bebidas",
+      "codigo_barra": "779717574653",
+      "tipo": "",
+      "atributos": [
+        "vegano"
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 118,
+      "nombre": "Leche",
+      "marca": "Ilolay",
+      "precio": 1,
+      "categoria": "lácteos",
+      "codigo_barra": "779715618357",
+      "tipo": "descremada",
+      "atributos": [
+        "apto diabéticos",
+        "vegano"
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 119,
+      "nombre": "Café",
+      "marca": "Arlistán",
+      "precio": 4585,
+      "categoria": "despensa",
+      "codigo_barra": "779450671690",
       "tipo": "",
       "atributos": [
         "sin TACC"
-      ]
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
-      "id": 97,
+      "id": 120,
+      "nombre": "Papas",
+      "marca": "Campo Claro",
+      "precio": 3176,
+      "categoria": "verduras",
+      "codigo_barra": "779209821914",
+      "tipo": "",
+      "atributos": [
+        "orgánico"
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 121,
+      "nombre": "Té",
+      "marca": "La Virginia",
+      "precio": 1,
+      "categoria": "despensa",
+      "codigo_barra": "779877910397",
+      "tipo": "",
+      "atributos": [
+        "vegano"
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 122,
+      "nombre": "Papas",
+      "marca": "Campo Claro",
+      "precio": 5176,
+      "categoria": "verduras",
+      "codigo_barra": "779937806923",
+      "tipo": "",
+      "atributos": [
+        "apto diabéticos",
+        "vegano"
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 123,
+      "nombre": "Papas",
+      "marca": "Frutas del Valle",
+      "precio": 1302,
+      "categoria": "verduras",
+      "codigo_barra": "779596253061",
+      "tipo": "",
+      "atributos": [],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 124,
+      "nombre": "Pollo",
+      "marca": "Paty",
+      "precio": 4298,
+      "categoria": "carnes",
+      "codigo_barra": "779817617265",
+      "tipo": "",
+      "atributos": [
+        "sin TACC"
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 125,
+      "nombre": "Café",
+      "marca": "Nescafé",
+      "precio": 1686,
+      "categoria": "despensa",
+      "codigo_barra": "779909691407",
+      "tipo": "",
+      "atributos": [],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 126,
+      "nombre": "Queso",
+      "marca": "Tregar",
+      "precio": 2057,
+      "categoria": "lácteos",
+      "codigo_barra": "779738142588",
+      "tipo": "untable",
+      "atributos": [
+        "vegano"
+      ],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 127,
+      "nombre": "Queso",
+      "marca": "Tregar",
+      "precio": 1,
+      "categoria": "lácteos",
+      "codigo_barra": "779738142588",
+      "tipo": "untable",
+      "atributos": [
+        "vegano"
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 128,
+      "nombre": "Arroz",
+      "marca": "Gallo",
+      "precio": 1960,
+      "categoria": "despensa",
+      "codigo_barra": "779408590386",
+      "tipo": "largo fino",
+      "atributos": [],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 129,
+      "nombre": "Arroz",
+      "marca": "Gallo",
+      "precio": 1,
+      "categoria": "despensa",
+      "codigo_barra": "779408590386",
+      "tipo": "largo fino",
+      "atributos": [],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 130,
+      "nombre": "Papas",
+      "marca": "Frutas del Valle",
+      "precio": 1489,
+      "categoria": "verduras",
+      "codigo_barra": "779448871831",
+      "tipo": "",
+      "atributos": [
+        "orgánico"
+      ],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 131,
+      "nombre": "Papas",
+      "marca": "Frutas del Valle",
+      "precio": 1,
+      "categoria": "verduras",
+      "codigo_barra": "779448871831",
+      "tipo": "",
+      "atributos": [
+        "orgánico"
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 132,
+      "nombre": "Dulce de leche",
+      "marca": "Chimbote",
+      "precio": 1629,
+      "categoria": "dulces",
+      "codigo_barra": "779124377409",
+      "tipo": "repostero",
+      "atributos": [],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 133,
+      "nombre": "Dulce de leche",
+      "marca": "Chimbote",
+      "precio": 586,
+      "categoria": "dulces",
+      "codigo_barra": "779124377409",
+      "tipo": "repostero",
+      "atributos": [],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 134,
+      "nombre": "Cebollas",
+      "marca": "Campo Claro",
+      "precio": 4639,
+      "categoria": "verduras",
+      "codigo_barra": "779938677491",
+      "tipo": "",
+      "atributos": [
+        "sin TACC",
+        "orgánico"
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 135,
+      "nombre": "Cebollas",
+      "marca": "Campo Claro",
+      "precio": 1228,
+      "categoria": "verduras",
+      "codigo_barra": "779938677491",
+      "tipo": "",
+      "atributos": [
+        "sin TACC",
+        "orgánico"
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 136,
       "nombre": "Gaseosa",
       "marca": "Cunnington",
-      "precio": 2302,
+      "precio": 110,
       "categoria": "bebidas",
-      "codigo_barra": "779606537459",
+      "codigo_barra": "779375057847",
+      "tipo": "",
+      "atributos": [],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 137,
+      "nombre": "Gaseosa",
+      "marca": "Cunnington",
+      "precio": 1,
+      "categoria": "bebidas",
+      "codigo_barra": "779375057847",
+      "tipo": "",
+      "atributos": [],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 138,
+      "nombre": "Té",
+      "marca": "La Virginia",
+      "precio": 1,
+      "categoria": "despensa",
+      "codigo_barra": "779122709905",
+      "tipo": "",
+      "atributos": [
+        "orgánico",
+        "vegano"
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 139,
+      "nombre": "Té",
+      "marca": "La Virginia",
+      "precio": 1,
+      "categoria": "despensa",
+      "codigo_barra": "779122709905",
+      "tipo": "",
+      "atributos": [
+        "orgánico",
+        "vegano"
+      ],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 140,
+      "nombre": "Manzanas",
+      "marca": "San Ignacio",
+      "precio": 555,
+      "categoria": "frutas",
+      "codigo_barra": "779571022220",
+      "tipo": "",
+      "atributos": [
+        "vegano"
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 141,
+      "nombre": "Manzanas",
+      "marca": "San Ignacio",
+      "precio": 1460,
+      "categoria": "frutas",
+      "codigo_barra": "779571022220",
+      "tipo": "",
+      "atributos": [
+        "vegano"
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 142,
+      "nombre": "Naranjas",
+      "marca": "San Ignacio",
+      "precio": 1,
+      "categoria": "frutas",
+      "codigo_barra": "779376593373",
+      "tipo": "",
+      "atributos": [
+        "vegano"
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 143,
+      "nombre": "Naranjas",
+      "marca": "San Ignacio",
+      "precio": 1709,
+      "categoria": "frutas",
+      "codigo_barra": "779376593373",
+      "tipo": "",
+      "atributos": [
+        "vegano"
+      ],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 144,
+      "nombre": "Zanahorias",
+      "marca": "Frutas del Valle",
+      "precio": 1,
+      "categoria": "verduras",
+      "codigo_barra": "779435335771",
       "tipo": "",
       "atributos": [
         "bajo sodio",
         "vegano"
-      ]
+      ],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
     },
     {
-      "id": 98,
-      "nombre": "Naranjas",
+      "id": 145,
+      "nombre": "Zanahorias",
       "marca": "Frutas del Valle",
-      "precio": 1392,
-      "categoria": "frutas",
-      "codigo_barra": "779424828586",
+      "precio": 3461,
+      "categoria": "verduras",
+      "codigo_barra": "779435335771",
+      "tipo": "",
+      "atributos": [
+        "bajo sodio",
+        "vegano"
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 146,
+      "nombre": "Jugo",
+      "marca": "Tang",
+      "precio": 1319,
+      "categoria": "bebidas",
+      "codigo_barra": "779107972769",
+      "tipo": "naranja",
+      "atributos": [
+        "bajo sodio"
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 147,
+      "nombre": "Jugo",
+      "marca": "Tang",
+      "precio": 2847,
+      "categoria": "bebidas",
+      "codigo_barra": "779107972769",
+      "tipo": "naranja",
+      "atributos": [
+        "bajo sodio"
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 148,
+      "nombre": "Aceite",
+      "marca": "Marolio",
+      "precio": 2510,
+      "categoria": "despensa",
+      "codigo_barra": "779127115272",
+      "tipo": "",
+      "atributos": [],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 149,
+      "nombre": "Aceite",
+      "marca": "Marolio",
+      "precio": 160,
+      "categoria": "despensa",
+      "codigo_barra": "779127115272",
+      "tipo": "",
+      "atributos": [],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 150,
+      "nombre": "Leche",
+      "marca": "La Serenísima",
+      "precio": 1,
+      "categoria": "lácteos",
+      "codigo_barra": "779474048886",
+      "tipo": "entera",
+      "atributos": [],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 151,
+      "nombre": "Leche",
+      "marca": "La Serenísima",
+      "precio": 1723,
+      "categoria": "lácteos",
+      "codigo_barra": "779474048886",
+      "tipo": "entera",
+      "atributos": [],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 152,
+      "nombre": "Harina",
+      "marca": "Molinos Río de la Plata",
+      "precio": 3109,
+      "categoria": "despensa",
+      "codigo_barra": "779909149607",
       "tipo": "",
       "atributos": [
         "orgánico",
-        "apto diabéticos"
-      ]
-    },
-    {
-      "id": 99,
-      "nombre": "Naranjas",
-      "marca": "San Ignacio",
-      "precio": 2890,
-      "categoria": "frutas",
-      "codigo_barra": "779745773770",
-      "tipo": "",
-      "atributos": []
-    },
-    {
-      "id": 100,
-      "nombre": "Pan",
-      "marca": "Bimbo",
-      "precio": 721,
-      "categoria": "panificados",
-      "stock": 74,
-      "codigo_barra": "779844549025",
-      "tipo": "lactal",
-      "atributos": [
         "vegano"
-      ]
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 153,
+      "nombre": "Harina",
+      "marca": "Molinos Río de la Plata",
+      "precio": 1184,
+      "categoria": "despensa",
+      "codigo_barra": "779909149607",
+      "tipo": "",
+      "atributos": [
+        "orgánico",
+        "vegano"
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 154,
+      "nombre": "Mermelada",
+      "marca": "BC",
+      "precio": 2216,
+      "categoria": "dulces",
+      "codigo_barra": "779841067069",
+      "tipo": "",
+      "atributos": [
+        "bajo sodio",
+        "orgánico"
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 155,
+      "nombre": "Mermelada",
+      "marca": "BC",
+      "precio": 54,
+      "categoria": "dulces",
+      "codigo_barra": "779841067069",
+      "tipo": "",
+      "atributos": [
+        "bajo sodio",
+        "orgánico"
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 156,
+      "nombre": "Zanahorias",
+      "marca": "Frutas del Valle",
+      "precio": 3452,
+      "categoria": "verduras",
+      "codigo_barra": "779781999312",
+      "tipo": "",
+      "atributos": [],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 157,
+      "nombre": "Zanahorias",
+      "marca": "Frutas del Valle",
+      "precio": 528,
+      "categoria": "verduras",
+      "codigo_barra": "779781999312",
+      "tipo": "",
+      "atributos": [],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 158,
+      "nombre": "Zanahorias",
+      "marca": "Frutas del Valle",
+      "precio": 3323,
+      "categoria": "verduras",
+      "codigo_barra": "779781999312",
+      "tipo": "",
+      "atributos": [],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 159,
+      "nombre": "Gaseosa",
+      "marca": "Manaos",
+      "precio": 2831,
+      "categoria": "bebidas",
+      "codigo_barra": "779305837175",
+      "tipo": "",
+      "atributos": [],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 160,
+      "nombre": "Gaseosa",
+      "marca": "Manaos",
+      "precio": 3181,
+      "categoria": "bebidas",
+      "codigo_barra": "779305837175",
+      "tipo": "",
+      "atributos": [],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 161,
+      "nombre": "Gaseosa",
+      "marca": "Manaos",
+      "precio": 4327,
+      "categoria": "bebidas",
+      "codigo_barra": "779305837175",
+      "tipo": "",
+      "atributos": [],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 162,
+      "nombre": "Bananas",
+      "marca": "Del Monte",
+      "precio": 556,
+      "categoria": "frutas",
+      "codigo_barra": "779271036783",
+      "tipo": "",
+      "atributos": [
+        "orgánico",
+        "vegano"
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 163,
+      "nombre": "Bananas",
+      "marca": "Del Monte",
+      "precio": 3630,
+      "categoria": "frutas",
+      "codigo_barra": "779271036783",
+      "tipo": "",
+      "atributos": [
+        "orgánico",
+        "vegano"
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 164,
+      "nombre": "Bananas",
+      "marca": "Del Monte",
+      "precio": 1457,
+      "categoria": "frutas",
+      "codigo_barra": "779271036783",
+      "tipo": "",
+      "atributos": [
+        "orgánico",
+        "vegano"
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 165,
+      "nombre": "Cebollas",
+      "marca": "Frutas del Valle",
+      "precio": 1730,
+      "categoria": "verduras",
+      "codigo_barra": "779636653565",
+      "tipo": "",
+      "atributos": [
+        "bajo sodio",
+        "vegano"
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 166,
+      "nombre": "Cebollas",
+      "marca": "Frutas del Valle",
+      "precio": 1,
+      "categoria": "verduras",
+      "codigo_barra": "779636653565",
+      "tipo": "",
+      "atributos": [
+        "bajo sodio",
+        "vegano"
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 167,
+      "nombre": "Cebollas",
+      "marca": "Frutas del Valle",
+      "precio": 2717,
+      "categoria": "verduras",
+      "codigo_barra": "779636653565",
+      "tipo": "",
+      "atributos": [
+        "bajo sodio",
+        "vegano"
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 168,
+      "nombre": "Fideos",
+      "marca": "Don Vicente",
+      "precio": 1,
+      "categoria": "pastas",
+      "codigo_barra": "779223786477",
+      "tipo": "spaghetti",
+      "atributos": [],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 169,
+      "nombre": "Fideos",
+      "marca": "Don Vicente",
+      "precio": 3996,
+      "categoria": "pastas",
+      "codigo_barra": "779223786477",
+      "tipo": "spaghetti",
+      "atributos": [],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 170,
+      "nombre": "Fideos",
+      "marca": "Don Vicente",
+      "precio": 3593,
+      "categoria": "pastas",
+      "codigo_barra": "779223786477",
+      "tipo": "spaghetti",
+      "atributos": [],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 171,
+      "nombre": "Bananas",
+      "marca": "Del Monte",
+      "precio": 842,
+      "categoria": "frutas",
+      "codigo_barra": "779269693755",
+      "tipo": "",
+      "atributos": [
+        "sin TACC",
+        "vegano"
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 172,
+      "nombre": "Bananas",
+      "marca": "Del Monte",
+      "precio": 1,
+      "categoria": "frutas",
+      "codigo_barra": "779269693755",
+      "tipo": "",
+      "atributos": [
+        "sin TACC",
+        "vegano"
+      ],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 173,
+      "nombre": "Bananas",
+      "marca": "Del Monte",
+      "precio": 1075,
+      "categoria": "frutas",
+      "codigo_barra": "779269693755",
+      "tipo": "",
+      "atributos": [
+        "sin TACC",
+        "vegano"
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 174,
+      "nombre": "Té",
+      "marca": "Green Hills",
+      "precio": 575,
+      "categoria": "despensa",
+      "codigo_barra": "779234586502",
+      "tipo": "",
+      "atributos": [
+        "orgánico"
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 175,
+      "nombre": "Té",
+      "marca": "Green Hills",
+      "precio": 4652,
+      "categoria": "despensa",
+      "codigo_barra": "779234586502",
+      "tipo": "",
+      "atributos": [
+        "orgánico"
+      ],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 176,
+      "nombre": "Té",
+      "marca": "Green Hills",
+      "precio": 5360,
+      "categoria": "despensa",
+      "codigo_barra": "779234586502",
+      "tipo": "",
+      "atributos": [
+        "orgánico"
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 177,
+      "nombre": "Carne picada",
+      "marca": "Carnes Argentinas",
+      "precio": 3686,
+      "categoria": "carnes",
+      "codigo_barra": "779126260376",
+      "tipo": "",
+      "atributos": [],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 178,
+      "nombre": "Carne picada",
+      "marca": "Carnes Argentinas",
+      "precio": 1,
+      "categoria": "carnes",
+      "codigo_barra": "779126260376",
+      "tipo": "",
+      "atributos": [],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 179,
+      "nombre": "Carne picada",
+      "marca": "Carnes Argentinas",
+      "precio": 1,
+      "categoria": "carnes",
+      "codigo_barra": "779126260376",
+      "tipo": "",
+      "atributos": [],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 180,
+      "nombre": "Jugo",
+      "marca": "Cepita",
+      "precio": 4132,
+      "categoria": "bebidas",
+      "codigo_barra": "779391880819",
+      "tipo": "multifruta",
+      "atributos": [
+        "apto diabéticos",
+        "vegano"
+      ],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 181,
+      "nombre": "Jugo",
+      "marca": "Cepita",
+      "precio": 1286,
+      "categoria": "bebidas",
+      "codigo_barra": "779391880819",
+      "tipo": "multifruta",
+      "atributos": [
+        "apto diabéticos",
+        "vegano"
+      ],
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 182,
+      "nombre": "Jugo",
+      "marca": "Cepita",
+      "precio": 1,
+      "categoria": "bebidas",
+      "codigo_barra": "779391880819",
+      "tipo": "multifruta",
+      "atributos": [
+        "apto diabéticos",
+        "vegano"
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 183,
+      "nombre": "Agua",
+      "marca": "Villavicencio",
+      "precio": 2629,
+      "categoria": "bebidas",
+      "codigo_barra": "779363687185",
+      "tipo": "",
+      "atributos": [
+        "bajo sodio",
+        "vegano"
+      ],
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 184,
+      "nombre": "Agua",
+      "marca": "Villavicencio",
+      "precio": 1816,
+      "categoria": "bebidas",
+      "codigo_barra": "779363687185",
+      "tipo": "",
+      "atributos": [
+        "bajo sodio",
+        "vegano"
+      ],
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "id": 185,
+      "nombre": "Agua",
+      "marca": "Villavicencio",
+      "precio": 1,
+      "categoria": "bebidas",
+      "codigo_barra": "779363687185",
+      "tipo": "",
+      "atributos": [
+        "bajo sodio",
+        "vegano"
+      ],
+      "supermercado": "Caceres",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "nombre": "Leche vegetal",
+      "marca": "NotCo",
+      "precio": 1890,
+      "categoria": "lácteos",
+      "codigo_barra": "779000001001",
+      "tipo": "almendra",
+      "atributos": [
+        "vegano",
+        "sin TACC",
+        "apto celiacos"
+      ],
+      "id": 186,
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "nombre": "Leche vegetal",
+      "marca": "NotCo",
+      "precio": 1890,
+      "categoria": "lácteos",
+      "codigo_barra": "779000001002",
+      "tipo": "almendra",
+      "atributos": [
+        "vegano",
+        "sin TACC",
+        "apto celiacos"
+      ],
+      "id": 187,
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "nombre": "Leche vegetal",
+      "marca": "NotCo",
+      "precio": 1890,
+      "categoria": "lácteos",
+      "codigo_barra": "779000001003",
+      "tipo": "almendra",
+      "atributos": [
+        "vegano",
+        "sin TACC",
+        "apto celiacos"
+      ],
+      "id": 188,
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "nombre": "Hamburguesa vegetal",
+      "marca": "NotCo",
+      "precio": 2890,
+      "categoria": "carnes",
+      "codigo_barra": "779000001005",
+      "tipo": "plant-based",
+      "atributos": [
+        "vegano",
+        "apto celiacos"
+      ],
+      "id": 189,
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "nombre": "Hamburguesa vegetal",
+      "marca": "NotCo",
+      "precio": 2890,
+      "categoria": "carnes",
+      "codigo_barra": "779000001006",
+      "tipo": "plant-based",
+      "atributos": [
+        "vegano",
+        "apto celiacos"
+      ],
+      "id": 190,
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "nombre": "Hamburguesa vegetal",
+      "marca": "NotCo",
+      "precio": 2890,
+      "categoria": "carnes",
+      "codigo_barra": "779000001007",
+      "tipo": "plant-based",
+      "atributos": [
+        "vegano",
+        "apto celiacos"
+      ],
+      "id": 191,
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "nombre": "Mayonesa vegetal",
+      "marca": "NotCo",
+      "precio": 1300,
+      "categoria": "despensa",
+      "codigo_barra": "779000001009",
+      "tipo": "",
+      "atributos": [
+        "sin TACC"
+      ],
+      "id": 192,
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "nombre": "Mayonesa vegetal",
+      "marca": "NotCo",
+      "precio": 1300,
+      "categoria": "despensa",
+      "codigo_barra": "779000001010",
+      "tipo": "",
+      "atributos": [
+        "sin TACC"
+      ],
+      "id": 193,
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "nombre": "Mayonesa vegetal",
+      "marca": "NotCo",
+      "precio": 1300,
+      "categoria": "despensa",
+      "codigo_barra": "779000001011",
+      "tipo": "",
+      "atributos": [
+        "sin TACC"
+      ],
+      "id": 194,
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "nombre": "Helado vegetal",
+      "marca": "NotCo",
+      "precio": 3500,
+      "categoria": "lácteos",
+      "codigo_barra": "779000001013",
+      "tipo": "vainilla",
+      "atributos": [
+        "vegano",
+        "apto celiacos"
+      ],
+      "id": 195,
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "nombre": "Helado vegetal",
+      "marca": "NotCo",
+      "precio": 3500,
+      "categoria": "lácteos",
+      "codigo_barra": "779000001014",
+      "tipo": "vainilla",
+      "atributos": [
+        "vegano",
+        "apto celiacos"
+      ],
+      "id": 196,
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "nombre": "Helado vegetal",
+      "marca": "NotCo",
+      "precio": 3500,
+      "categoria": "lácteos",
+      "codigo_barra": "779000001015",
+      "tipo": "vainilla",
+      "atributos": [
+        "vegano",
+        "apto celiacos"
+      ],
+      "id": 197,
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "nombre": "Queso vegetal",
+      "marca": "NotCo",
+      "precio": 2780,
+      "categoria": "lácteos",
+      "codigo_barra": "779000001017",
+      "tipo": "rallado",
+      "atributos": [
+        "sin TACC",
+        "vegano"
+      ],
+      "id": 198,
+      "supermercado": "APA",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "nombre": "Queso vegetal",
+      "marca": "NotCo",
+      "precio": 2780,
+      "categoria": "lácteos",
+      "codigo_barra": "779000001018",
+      "tipo": "rallado",
+      "atributos": [
+        "sin TACC",
+        "vegano"
+      ],
+      "id": 199,
+      "supermercado": "ChangoMas",
+      "categoria_super": "supermercado",
+      "image": ""
+    },
+    {
+      "nombre": "Queso vegetal",
+      "marca": "NotCo",
+      "precio": 2780,
+      "categoria": "lácteos",
+      "codigo_barra": "779000001019",
+      "tipo": "rallado",
+      "atributos": [
+        "sin TACC",
+        "vegano"
+      ],
+      "id": 200,
+      "supermercado": "Carrefour",
+      "categoria_super": "supermercado",
+      "image": ""
     }
   ]
 }
