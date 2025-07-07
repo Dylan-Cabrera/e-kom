@@ -9,6 +9,7 @@
       "codigo_barra": "779746656615",
       "tipo": "",
       "supermercado": "Caceres",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D",
       "atributos": [],
       "categoria_super": "supermercado",
       "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/837281/Carne-Vacuna-Picada-Com-n-1-886930.jpg?v=638636637677000000"
@@ -27,7 +28,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://alberdisa.vteximg.com.br/arquivos/ids/174006-1000-1000/Jugo-Tang-Multifruta--x-18-Gr.png?v=638146551929830000"
+      "imagen": "https://alberdisa.vteximg.com.br/arquivos/ids/174006-1000-1000/Jugo-Tang-Multifruta--x-18-Gr.png?v=638146551929830000",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 3,
@@ -43,7 +45,8 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://www.tregar.com.ar/wp-content/uploads/2021/08/crema-dolecrema-350cc-Tregar.jpg"
+      "imagen": "https://www.tregar.com.ar/wp-content/uploads/2021/08/crema-dolecrema-350cc-Tregar.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 4,
@@ -59,7 +62,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/843090/Dulce-De-Leche-San-Ignacio-Frasco-450g-1-1023483.jpg?v=638654784481600000"
+      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/843090/Dulce-De-Leche-San-Ignacio-Frasco-450g-1-1023483.jpg?v=638654784481600000",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 5,
@@ -75,7 +79,8 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/544753/Agua-Baja-En-Sodio-Glaciar-2-L-1-237513.jpg?v=637014360454900000"
+      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/544753/Agua-Baja-En-Sodio-Glaciar-2-L-1-237513.jpg?v=637014360454900000",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 6,
@@ -88,7 +93,8 @@
       "atributos": [],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://statics.dinoonline.com.ar/imagennes/full_600x600_ma/3300030_f.jpg"
+      "imagen": "https://statics.dinoonline.com.ar/imagennes/full_600x600_ma/3300030_f.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 7,
@@ -104,7 +110,8 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://statics.dinoonline.com.ar/imagennes/full_600x600_ma/3280031_f.jpg"
+      "imagen": "https://statics.dinoonline.com.ar/imagennes/full_600x600_ma/3280031_f.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 8,
@@ -119,7 +126,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://img2.rtve.es/n/2355440"
+      "imagen": "https://img2.rtve.es/n/2355440",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 9,
@@ -132,7 +140,8 @@
       "atributos": [],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://www.tregar.com.ar/wp-content/uploads/2021/08/crema-dolecrema-350cc-Tregar.jpg"
+      "imagen": "https://www.tregar.com.ar/wp-content/uploads/2021/08/crema-dolecrema-350cc-Tregar.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 10,
@@ -148,7 +157,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://media.tada.com.ar/product_variant/00000397_7baf0d9d-5059-4637-8551-3c8a01c67603.jpg"
+      "imagen": "https://media.tada.com.ar/product_variant/00000397_7baf0d9d-5059-4637-8551-3c8a01c67603.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 11,
@@ -163,7 +173,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/621305-800-600?v=637473138272170000&width=800&height=600&aspect=true"
+      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/621305-800-600?v=637473138272170000&width=800&height=600&aspect=true",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 13,
@@ -176,7 +187,8 @@
       "atributos": [],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://molinosala.com.ar//wp-content/uploads/2024/01/Arroz-Largo-Fino-Molinos-Ala-Grano-Selecto-Mas-Entero-1kg-min-730x1024.png"
+      "imagen": "https://molinosala.com.ar//wp-content/uploads/2024/01/Arroz-Largo-Fino-Molinos-Ala-Grano-Selecto-Mas-Entero-1kg-min-730x1024.png",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 14,
@@ -189,7 +201,8 @@
       "atributos": [],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://encrypted-tbn0.gstatic.com/imagens?q=tbn:ANd9GcQAXKOE-NEBDDVFR8nrZnoOFPRLysmrflDGzg&s"
+      "imagen": "https://encrypted-tbn0.gstatic.com/imagens?q=tbn:ANd9GcQAXKOE-NEBDDVFR8nrZnoOFPRLysmrflDGzg&s",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 15,
@@ -205,7 +218,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://tienda.pasosonline.com.ar/wp-content/uploads/2023/06/imagen-removebg-preview-18.png"
+      "imagen": "https://tienda.pasosonline.com.ar/wp-content/uploads/2023/06/imagen-removebg-preview-18.png",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 16,
@@ -220,7 +234,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/843090/Dulce-De-Leche-San-Ignacio-Frasco-450g-1-1023483.jpg?v=638654784481600000"
+      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/843090/Dulce-De-Leche-San-Ignacio-Frasco-450g-1-1023483.jpg?v=638654784481600000",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 17,
@@ -236,7 +251,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://www.recetasnestlecam.com/sites/default/files/2022-04/tipos-de-manzana-royal-gala.jpg"
+      "imagen": "https://www.recetasnestlecam.com/sites/default/files/2022-04/tipos-de-manzana-royal-gala.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 19,
@@ -251,7 +267,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://elnenearg.vtexassets.com/arquivos/ids/159843-800-auto?v=637968549840100000&width=800&height=auto&aspect=true"
+      "imagen": "https://elnenearg.vtexassets.com/arquivos/ids/159843-800-auto?v=637968549840100000&width=800&height=auto&aspect=true",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 20,
@@ -267,7 +284,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://acdn-us.mitiendanube.com/stores/798/865/products/30279408-961f6991bb425e6b1516639383181248-1024-1024.jpg"
+      "imagen": "https://acdn-us.mitiendanube.com/stores/798/865/products/30279408-961f6991bb425e6b1516639383181248-1024-1024.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 21,
@@ -282,7 +300,8 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://acdn-us.mitiendanube.com/stores/001/157/846/products/copia-de-diseno-sin-nombre-611-a462dd7d4798d139ac16466564239451-1024-1024.png"
+      "imagen": "https://acdn-us.mitiendanube.com/stores/001/157/846/products/copia-de-diseno-sin-nombre-611-a462dd7d4798d139ac16466564239451-1024-1024.png",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 22,
@@ -297,7 +316,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg"
+      "imagen": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 23,
@@ -312,7 +332,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://acdn-us.mitiendanube.com/stores/001/157/846/products/te-virginia1-bb9435bb9c0f1e83ad15876567102839-1024-1024.jpg"
+      "imagen": "https://acdn-us.mitiendanube.com/stores/001/157/846/products/te-virginia1-bb9435bb9c0f1e83ad15876567102839-1024-1024.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 24,
@@ -328,7 +349,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg"
+      "imagen": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 25,
@@ -341,7 +363,8 @@
       "atributos": [],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg"
+      "imagen": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 28,
@@ -356,7 +379,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://statics.dinoonline.com.ar/imagennes/full_600x600_ma/3300030_f.jpg"
+      "imagen": "https://statics.dinoonline.com.ar/imagennes/full_600x600_ma/3300030_f.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 29,
@@ -369,7 +393,8 @@
       "atributos": [],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://acdn-us.mitiendanube.com/stores/093/780/products/31-b710f608f2e9f71bd916948130284163-480-0.jpg"
+      "imagen": "https://acdn-us.mitiendanube.com/stores/093/780/products/31-b710f608f2e9f71bd916948130284163-480-0.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 30,
@@ -379,12 +404,11 @@
       "categoria": "lácteos",
       "codigo_barra": "779738142588",
       "tipo": "untable",
-      "atributos": [
-       
-      ],
+      "atributos": [],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/774483/Queso-Crema-Clasico-Tregar-280g-1-947604.jpg?v=638150854079900000"
+      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/774483/Queso-Crema-Clasico-Tregar-280g-1-947604.jpg?v=638150854079900000",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 31,
@@ -397,7 +421,8 @@
       "atributos": [],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://maxiconsumo.com/media/catalog/product/cache/dee42de555cd0e5c071d2951391ded3b/2/4/241.jpg"
+      "imagen": "https://maxiconsumo.com/media/catalog/product/cache/dee42de555cd0e5c071d2951391ded3b/2/4/241.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 32,
@@ -412,7 +437,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg"
+      "imagen": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 33,
@@ -425,7 +451,8 @@
       "atributos": [],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://acdn-us.mitiendanube.com/stores/861/458/products/3203561-db58679135aeda4e0915918175192274-640-0.jpg"
+      "imagen": "https://acdn-us.mitiendanube.com/stores/861/458/products/3203561-db58679135aeda4e0915918175192274-640-0.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 34,
@@ -441,7 +468,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://encrypted-tbn0.gstatic.com/imagens?q=tbn:ANd9GcSwQ5cXObPLDFCMFGeHVRHgYQg_gBalq6ZsuA&s"
+      "imagen": "https://encrypted-tbn0.gstatic.com/imagens?q=tbn:ANd9GcSwQ5cXObPLDFCMFGeHVRHgYQg_gBalq6ZsuA&s",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 36,
@@ -454,7 +482,8 @@
       "atributos": [],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://encrypted-tbn0.gstatic.com/imagens?q=tbn:ANd9GcQEjoZBIk7p-dHxFckW2hxwK-0xwCMlnOpTrA&s"
+      "imagen": "https://encrypted-tbn0.gstatic.com/imagens?q=tbn:ANd9GcQEjoZBIk7p-dHxFckW2hxwK-0xwCMlnOpTrA&s",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 37,
@@ -470,7 +499,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://acdn-us.mitiendanube.com/stores/001/157/846/products/te-virginia1-bb9435bb9c0f1e83ad15876567102839-1024-1024.jpg"
+      "imagen": "https://acdn-us.mitiendanube.com/stores/001/157/846/products/te-virginia1-bb9435bb9c0f1e83ad15876567102839-1024-1024.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 38,
@@ -485,7 +515,8 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://www.recetasnestlecam.com/sites/default/files/2022-04/tipos-de-manzana-royal-gala.jpg"
+      "imagen": "https://www.recetasnestlecam.com/sites/default/files/2022-04/tipos-de-manzana-royal-gala.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 39,
@@ -500,7 +531,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://www.recetasamc.info/sites/default/files/styles/max_width_1000/public/migrate/ingredient-wiki/1524656366-amc-wiki-id2706-imagen40.png?itok=4fcdsqkp"
+      "imagen": "https://www.recetasamc.info/sites/default/files/styles/max_width_1000/public/migrate/ingredient-wiki/1524656366-amc-wiki-id2706-imagen40.png?itok=4fcdsqkp",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 40,
@@ -516,7 +548,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://img2.rtve.es/n/2355440"
+      "imagen": "https://img2.rtve.es/n/2355440",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 41,
@@ -531,7 +564,8 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://www.casa-segal.com/wp-content/uploads/2021/01/tang-naranja-18-g-ofertas-en-mendoza-casa-segal.jpg"
+      "imagen": "https://www.casa-segal.com/wp-content/uploads/2021/01/tang-naranja-18-g-ofertas-en-mendoza-casa-segal.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 42,
@@ -544,7 +578,8 @@
       "atributos": [],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://maxiconsumo.com/media/catalog/product/cache/dee42de555cd0e5c071d2951391ded3b/3/0/304_174244293867db91ba4f5e08.35908608.jpg"
+      "imagen": "https://maxiconsumo.com/media/catalog/product/cache/dee42de555cd0e5c071d2951391ded3b/3/0/304_174244293867db91ba4f5e08.35908608.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 43,
@@ -557,7 +592,8 @@
       "atributos": [],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://acdn-us.mitiendanube.com/stores/093/780/products/serenisima-clasica-751-95fea92d1a27f8e9ab15710914346750-480-0.png"
+      "imagen": "https://acdn-us.mitiendanube.com/stores/093/780/products/serenisima-clasica-751-95fea92d1a27f8e9ab15710914346750-480-0.png",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 44,
@@ -573,7 +609,8 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://dcdn-us.mitiendanube.com/stores/001/175/558/products/harinisima-copia1-5d79e6b8e2803ddafe16137101110022-640-0.jpg"
+      "imagen": "https://dcdn-us.mitiendanube.com/stores/001/175/558/products/harinisima-copia1-5d79e6b8e2803ddafe16137101110022-640-0.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 45,
@@ -589,7 +626,8 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://eqonatura.com/wp-content/uploads/2018/07/mermeladas-bc.jpg"
+      "imagen": "https://eqonatura.com/wp-content/uploads/2018/07/mermeladas-bc.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 46,
@@ -602,7 +640,8 @@
       "atributos": [],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://img2.rtve.es/n/2355440"
+      "imagen": "https://img2.rtve.es/n/2355440",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 47,
@@ -615,7 +654,8 @@
       "atributos": [],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://www.casa-segal.com/wp-content/uploads/2024/12/manaos-cola-3-litros-ofertas-casa-segal-supermercado-mendoza.jpg"
+      "imagen": "https://www.casa-segal.com/wp-content/uploads/2024/12/manaos-cola-3-litros-ofertas-casa-segal-supermercado-mendoza.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 48,
@@ -631,7 +671,8 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cavendish_Banana_DS.jpg/1200px-Cavendish_Banana_DS.jpg"
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cavendish_Banana_DS.jpg/1200px-Cavendish_Banana_DS.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 49,
@@ -647,7 +688,8 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://agrotendencia.tv/wp-content/uploads/2019/02/cebolla-principal-1.jpg"
+      "imagen": "https://agrotendencia.tv/wp-content/uploads/2019/02/cebolla-principal-1.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 50,
@@ -660,7 +702,8 @@
       "atributos": [],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://www.molinos.com.ar/wp-content/uploads/2022/09/Don-vicente-caserito.webp"
+      "imagen": "https://www.molinos.com.ar/wp-content/uploads/2022/09/Don-vicente-caserito.webp",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 51,
@@ -676,7 +719,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cavendish_Banana_DS.jpg/1200px-Cavendish_Banana_DS.jpg"
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cavendish_Banana_DS.jpg/1200px-Cavendish_Banana_DS.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 52,
@@ -691,7 +735,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/695328/T-Green-Hills-25-Saquitos-1-3388.jpg?v=637848777637100000"
+      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/695328/T-Green-Hills-25-Saquitos-1-3388.jpg?v=637848777637100000",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 53,
@@ -704,7 +749,8 @@
       "atributos": [],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://alberdisa.vteximg.com.br/arquivos/ids/178540-1000-1000/carne-molida.png?v=638518998477200000"
+      "imagen": "https://alberdisa.vteximg.com.br/arquivos/ids/178540-1000-1000/carne-molida.png?v=638518998477200000",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 54,
@@ -720,7 +766,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/800264-800-600?v=638826492568330000&width=800&height=600&aspect=true"
+      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/800264-800-600?v=638826492568330000&width=800&height=600&aspect=true",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 55,
@@ -736,7 +783,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/795828-800-600?v=638313501973800000&width=800&height=600&aspect=true"
+      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/795828-800-600?v=638313501973800000&width=800&height=600&aspect=true",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 101,
@@ -749,7 +797,8 @@
       "supermercado": "Carrefour",
       "atributos": [],
       "categoria_super": "supermercado",
-      "imagen": "https://alberdisa.vteximg.com.br/arquivos/ids/178540-1000-1000/carne-molida.png?v=638518998477200000"
+      "imagen": "https://alberdisa.vteximg.com.br/arquivos/ids/178540-1000-1000/carne-molida.png?v=638518998477200000",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 102,
@@ -765,7 +814,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://alberdisa.vteximg.com.br/arquivos/ids/174006-1000-1000/Jugo-Tang-Multifruta--x-18-Gr.png?v=638146551929830000"
+      "imagen": "https://alberdisa.vteximg.com.br/arquivos/ids/174006-1000-1000/Jugo-Tang-Multifruta--x-18-Gr.png?v=638146551929830000",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 103,
@@ -781,7 +831,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://www.tregar.com.ar/wp-content/uploads/2021/08/crema-dolecrema-200cc-Tregar.jpg"
+      "imagen": "https://www.tregar.com.ar/wp-content/uploads/2021/08/crema-dolecrema-200cc-Tregar.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 104,
@@ -797,7 +848,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/843090/Dulce-De-Leche-San-Ignacio-Frasco-450g-1-1023483.jpg?v=638654784481600000"
+      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/843090/Dulce-De-Leche-San-Ignacio-Frasco-450g-1-1023483.jpg?v=638654784481600000",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 105,
@@ -813,7 +865,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://elnenearg.vtexassets.com/arquivos/ids/159843-800-auto?v=637968549840100000&width=800&height=auto&aspect=true"
+      "imagen": "https://elnenearg.vtexassets.com/arquivos/ids/159843-800-auto?v=637968549840100000&width=800&height=auto&aspect=true",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 106,
@@ -826,7 +879,8 @@
       "atributos": [],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://statics.dinoonline.com.ar/imagennes/full_600x600_ma/3300030_f.jpg"
+      "imagen": "https://statics.dinoonline.com.ar/imagennes/full_600x600_ma/3300030_f.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 107,
@@ -842,7 +896,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://statics.dinoonline.com.ar/imagennes/full_600x600_ma/3280031_f.jpg"
+      "imagen": "https://statics.dinoonline.com.ar/imagennes/full_600x600_ma/3280031_f.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 108,
@@ -857,7 +912,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://img2.rtve.es/n/2355440"
+      "imagen": "https://img2.rtve.es/n/2355440",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 109,
@@ -870,7 +926,8 @@
       "atributos": [],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://www.tregar.com.ar/wp-content/uploads/2021/08/crema-dolecrema-200cc-Tregar.jpg"
+      "imagen": "https://www.tregar.com.ar/wp-content/uploads/2021/08/crema-dolecrema-200cc-Tregar.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 110,
@@ -886,7 +943,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://media.tada.com.ar/product_variant/00000397_7baf0d9d-5059-4637-8551-3c8a01c67603.jpg"
+      "imagen": "https://media.tada.com.ar/product_variant/00000397_7baf0d9d-5059-4637-8551-3c8a01c67603.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 111,
@@ -901,7 +959,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/621305-800-600?v=637473138272170000&width=800&height=600&aspect=true"
+      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/621305-800-600?v=637473138272170000&width=800&height=600&aspect=true",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 112,
@@ -914,7 +973,8 @@
       "atributos": [],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://molinosala.com.ar//wp-content/uploads/2024/01/Arroz-Largo-Fino-Molinos-Ala-Grano-Selecto-Mas-Entero-1kg-min-730x1024.png"
+      "imagen": "https://molinosala.com.ar//wp-content/uploads/2024/01/Arroz-Largo-Fino-Molinos-Ala-Grano-Selecto-Mas-Entero-1kg-min-730x1024.png",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 113,
@@ -927,7 +987,8 @@
       "atributos": [],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://encrypted-tbn0.gstatic.com/imagens?q=tbn:ANd9GcQAXKOE-NEBDDVFR8nrZnoOFPRLysmrflDGzg&s"
+      "imagen": "https://encrypted-tbn0.gstatic.com/imagens?q=tbn:ANd9GcQAXKOE-NEBDDVFR8nrZnoOFPRLysmrflDGzg&s",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 114,
@@ -943,7 +1004,8 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://www.casa-segal.com/wp-content/uploads/2024/12/manaos-cola-3-litros-ofertas-casa-segal-supermercado-mendoza.jpg"
+      "imagen": "https://www.casa-segal.com/wp-content/uploads/2024/12/manaos-cola-3-litros-ofertas-casa-segal-supermercado-mendoza.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 115,
@@ -958,7 +1020,8 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/843090/Dulce-De-Leche-San-Ignacio-Frasco-450g-1-1023483.jpg?v=638654784481600000"
+      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/843090/Dulce-De-Leche-San-Ignacio-Frasco-450g-1-1023483.jpg?v=638654784481600000",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 116,
@@ -974,7 +1037,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://www.recetasnestlecam.com/sites/default/files/2022-04/tipos-de-manzana-royal-gala.jpg"
+      "imagen": "https://www.recetasnestlecam.com/sites/default/files/2022-04/tipos-de-manzana-royal-gala.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 117,
@@ -989,7 +1053,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://elnenearg.vtexassets.com/arquivos/ids/159843-800-auto?v=637968549840100000&width=800&height=auto&aspect=true"
+      "imagen": "https://elnenearg.vtexassets.com/arquivos/ids/159843-800-auto?v=637968549840100000&width=800&height=auto&aspect=true",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 118,
@@ -1005,7 +1070,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://acdn-us.mitiendanube.com/stores/798/865/products/30279408-961f6991bb425e6b1516639383181248-1024-1024.jpg"
+      "imagen": "https://acdn-us.mitiendanube.com/stores/798/865/products/30279408-961f6991bb425e6b1516639383181248-1024-1024.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 119,
@@ -1020,7 +1086,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://http2.mlstatic.com/D_NQ_NP_667667-MLA49499325913_032022-O.webp"
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_667667-MLA49499325913_032022-O.webp",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 120,
@@ -1035,7 +1102,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg"
+      "imagen": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 121,
@@ -1050,7 +1118,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://acdn-us.mitiendanube.com/stores/001/157/846/products/te-virginia1-bb9435bb9c0f1e83ad15876567102839-1024-1024.jpg"
+      "imagen": "https://acdn-us.mitiendanube.com/stores/001/157/846/products/te-virginia1-bb9435bb9c0f1e83ad15876567102839-1024-1024.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 122,
@@ -1066,7 +1135,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg"
+      "imagen": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 123,
@@ -1079,7 +1149,8 @@
       "atributos": [],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg"
+      "imagen": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 124,
@@ -1094,7 +1165,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://statics.dinoonline.com.ar/imagennes/full_600x600_ma/3300030_f.jpg"
+      "imagen": "https://statics.dinoonline.com.ar/imagennes/full_600x600_ma/3300030_f.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 125,
@@ -1107,7 +1179,8 @@
       "atributos": [],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://acdn-us.mitiendanube.com/stores/093/780/products/31-b710f608f2e9f71bd916948130284163-480-0.jpg"
+      "imagen": "https://acdn-us.mitiendanube.com/stores/093/780/products/31-b710f608f2e9f71bd916948130284163-480-0.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 126,
@@ -1117,12 +1190,11 @@
       "categoria": "lácteos",
       "codigo_barra": "779738142588",
       "tipo": "untable",
-      "atributos": [
-        
-      ],
+      "atributos": [],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/774483/Queso-Crema-Clasico-Tregar-280g-1-947604.jpg?v=638150854079900000"
+      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/774483/Queso-Crema-Clasico-Tregar-280g-1-947604.jpg?v=638150854079900000",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 127,
@@ -1132,12 +1204,11 @@
       "categoria": "lácteos",
       "codigo_barra": "779738142588",
       "tipo": "untable",
-      "atributos": [
-      
-      ],
+      "atributos": [],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/774483/Queso-Crema-Clasico-Tregar-280g-1-947604.jpg?v=638150854079900000"
+      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/774483/Queso-Crema-Clasico-Tregar-280g-1-947604.jpg?v=638150854079900000",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 128,
@@ -1150,7 +1221,8 @@
       "atributos": [],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://maxiconsumo.com/media/catalog/product/cache/dee42de555cd0e5c071d2951391ded3b/2/4/241.jpg"
+      "imagen": "https://maxiconsumo.com/media/catalog/product/cache/dee42de555cd0e5c071d2951391ded3b/2/4/241.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 129,
@@ -1163,7 +1235,8 @@
       "atributos": [],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://maxiconsumo.com/media/catalog/product/cache/dee42de555cd0e5c071d2951391ded3b/2/4/241.jpg"
+      "imagen": "https://maxiconsumo.com/media/catalog/product/cache/dee42de555cd0e5c071d2951391ded3b/2/4/241.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 130,
@@ -1178,7 +1251,8 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg"
+      "imagen": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 131,
@@ -1193,7 +1267,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg"
+      "imagen": "https://www.herbazest.com/imgs/0/a/c/451775/papa.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 132,
@@ -1206,7 +1281,8 @@
       "atributos": [],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://acdn-us.mitiendanube.com/stores/861/458/products/3203561-db58679135aeda4e0915918175192274-640-0.jpg"
+      "imagen": "https://acdn-us.mitiendanube.com/stores/861/458/products/3203561-db58679135aeda4e0915918175192274-640-0.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 133,
@@ -1219,7 +1295,8 @@
       "atributos": [],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://acdn-us.mitiendanube.com/stores/861/458/products/3203561-db58679135aeda4e0915918175192274-640-0.jpg"
+      "imagen": "https://acdn-us.mitiendanube.com/stores/861/458/products/3203561-db58679135aeda4e0915918175192274-640-0.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 134,
@@ -1235,7 +1312,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://5aldia.cl/wp-content/uploads/2018/03/cebolla.jpg"
+      "imagen": "https://5aldia.cl/wp-content/uploads/2018/03/cebolla.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 135,
@@ -1251,7 +1329,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://5aldia.cl/wp-content/uploads/2018/03/cebolla.jpg"
+      "imagen": "https://5aldia.cl/wp-content/uploads/2018/03/cebolla.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 136,
@@ -1264,7 +1343,8 @@
       "atributos": [],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://encrypted-tbn0.gstatic.com/imagens?q=tbn:ANd9GcQEjoZBIk7p-dHxFckW2hxwK-0xwCMlnOpTrA&s"
+      "imagen": "https://encrypted-tbn0.gstatic.com/imagens?q=tbn:ANd9GcQEjoZBIk7p-dHxFckW2hxwK-0xwCMlnOpTrA&s",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 137,
@@ -1277,7 +1357,8 @@
       "atributos": [],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://encrypted-tbn0.gstatic.com/imagens?q=tbn:ANd9GcQEjoZBIk7p-dHxFckW2hxwK-0xwCMlnOpTrA&s"
+      "imagen": "https://encrypted-tbn0.gstatic.com/imagens?q=tbn:ANd9GcQEjoZBIk7p-dHxFckW2hxwK-0xwCMlnOpTrA&s",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 138,
@@ -1293,7 +1374,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://acdn-us.mitiendanube.com/stores/001/157/846/products/te-virginia1-bb9435bb9c0f1e83ad15876567102839-1024-1024.jpg"
+      "imagen": "https://acdn-us.mitiendanube.com/stores/001/157/846/products/te-virginia1-bb9435bb9c0f1e83ad15876567102839-1024-1024.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 139,
@@ -1309,7 +1391,8 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://acdn-us.mitiendanube.com/stores/001/157/846/products/te-virginia1-bb9435bb9c0f1e83ad15876567102839-1024-1024.jpg"
+      "imagen": "https://acdn-us.mitiendanube.com/stores/001/157/846/products/te-virginia1-bb9435bb9c0f1e83ad15876567102839-1024-1024.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 140,
@@ -1324,7 +1407,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://www.recetasnestlecam.com/sites/default/files/2022-04/tipos-de-manzana-royal-gala.jpg"
+      "imagen": "https://www.recetasnestlecam.com/sites/default/files/2022-04/tipos-de-manzana-royal-gala.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 141,
@@ -1339,7 +1423,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://www.recetasnestlecam.com/sites/default/files/2022-04/tipos-de-manzana-royal-gala.jpg"
+      "imagen": "https://www.recetasnestlecam.com/sites/default/files/2022-04/tipos-de-manzana-royal-gala.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 142,
@@ -1354,7 +1439,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://www.recetasamc.info/sites/default/files/styles/max_width_1000/public/migrate/ingredient-wiki/1524656366-amc-wiki-id2706-imagen40.png?itok=4fcdsqkp"
+      "imagen": "https://www.recetasamc.info/sites/default/files/styles/max_width_1000/public/migrate/ingredient-wiki/1524656366-amc-wiki-id2706-imagen40.png?itok=4fcdsqkp",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 143,
@@ -1369,7 +1455,8 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://www.recetasamc.info/sites/default/files/styles/max_width_1000/public/migrate/ingredient-wiki/1524656366-amc-wiki-id2706-imagen40.png?itok=4fcdsqkp"
+      "imagen": "https://www.recetasamc.info/sites/default/files/styles/max_width_1000/public/migrate/ingredient-wiki/1524656366-amc-wiki-id2706-imagen40.png?itok=4fcdsqkp",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 144,
@@ -1385,7 +1472,8 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://img2.rtve.es/n/2355440"
+      "imagen": "https://img2.rtve.es/n/2355440",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 145,
@@ -1401,7 +1489,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://img2.rtve.es/n/2355440"
+      "imagen": "https://img2.rtve.es/n/2355440",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 146,
@@ -1416,7 +1505,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://www.casa-segal.com/wp-content/uploads/2021/01/tang-naranja-18-g-ofertas-en-mendoza-casa-segal.jpg"
+      "imagen": "https://www.casa-segal.com/wp-content/uploads/2021/01/tang-naranja-18-g-ofertas-en-mendoza-casa-segal.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 147,
@@ -1431,7 +1521,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://www.casa-segal.com/wp-content/uploads/2021/01/tang-naranja-18-g-ofertas-en-mendoza-casa-segal.jpg"
+      "imagen": "https://www.casa-segal.com/wp-content/uploads/2021/01/tang-naranja-18-g-ofertas-en-mendoza-casa-segal.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 148,
@@ -1444,7 +1535,8 @@
       "atributos": [],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://maxiconsumo.com/media/catalog/product/cache/dee42de555cd0e5c071d2951391ded3b/3/0/304_174244293867db91ba4f5e08.35908608.jpg"
+      "imagen": "https://maxiconsumo.com/media/catalog/product/cache/dee42de555cd0e5c071d2951391ded3b/3/0/304_174244293867db91ba4f5e08.35908608.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 149,
@@ -1457,7 +1549,8 @@
       "atributos": [],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://maxiconsumo.com/media/catalog/product/cache/dee42de555cd0e5c071d2951391ded3b/3/0/304_174244293867db91ba4f5e08.35908608.jpg"
+      "imagen": "https://maxiconsumo.com/media/catalog/product/cache/dee42de555cd0e5c071d2951391ded3b/3/0/304_174244293867db91ba4f5e08.35908608.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 150,
@@ -1470,7 +1563,8 @@
       "atributos": [],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://acdn-us.mitiendanube.com/stores/093/780/products/serenisima-clasica-751-95fea92d1a27f8e9ab15710914346750-480-0.png"
+      "imagen": "https://acdn-us.mitiendanube.com/stores/093/780/products/serenisima-clasica-751-95fea92d1a27f8e9ab15710914346750-480-0.png",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 151,
@@ -1483,7 +1577,8 @@
       "atributos": [],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://acdn-us.mitiendanube.com/stores/093/780/products/serenisima-clasica-751-95fea92d1a27f8e9ab15710914346750-480-0.png"
+      "imagen": "https://acdn-us.mitiendanube.com/stores/093/780/products/serenisima-clasica-751-95fea92d1a27f8e9ab15710914346750-480-0.png",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 152,
@@ -1499,7 +1594,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://www.molinos.com.ar/wp-content/uploads/2022/09/harina-favorita-000.webp"
+      "imagen": "https://www.molinos.com.ar/wp-content/uploads/2022/09/harina-favorita-000.webp",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 153,
@@ -1515,7 +1611,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://www.molinos.com.ar/wp-content/uploads/2022/09/harina-favorita-000.webp"
+      "imagen": "https://www.molinos.com.ar/wp-content/uploads/2022/09/harina-favorita-000.webp",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 154,
@@ -1531,7 +1628,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://eqonatura.com/wp-content/uploads/2018/07/mermeladas-bc.jpg"
+      "imagen": "https://eqonatura.com/wp-content/uploads/2018/07/mermeladas-bc.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 155,
@@ -1547,7 +1645,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://eqonatura.com/wp-content/uploads/2018/07/mermeladas-bc.jpg"
+      "imagen": "https://eqonatura.com/wp-content/uploads/2018/07/mermeladas-bc.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 156,
@@ -1560,7 +1659,8 @@
       "atributos": [],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://img2.rtve.es/n/2355440"
+      "imagen": "https://img2.rtve.es/n/2355440",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 157,
@@ -1573,7 +1673,8 @@
       "atributos": [],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://img2.rtve.es/n/2355440"
+      "imagen": "https://img2.rtve.es/n/2355440",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 158,
@@ -1586,7 +1687,8 @@
       "atributos": [],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://img2.rtve.es/n/2355440"
+      "imagen": "https://img2.rtve.es/n/2355440",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 159,
@@ -1599,7 +1701,8 @@
       "atributos": [],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://cdn11.bigcommerce.com/s-3stx4pub31/imagens/stencil/1280x1280/products/4172/10899/manaos-cola-soda-2.25__03295.1654300480.jpg?c=2"
+      "imagen": "https://cdn11.bigcommerce.com/s-3stx4pub31/imagens/stencil/1280x1280/products/4172/10899/manaos-cola-soda-2.25__03295.1654300480.jpg?c=2",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 160,
@@ -1612,7 +1715,8 @@
       "atributos": [],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://cdn11.bigcommerce.com/s-3stx4pub31/imagens/stencil/1280x1280/products/4172/10899/manaos-cola-soda-2.25__03295.1654300480.jpg?c=2"
+      "imagen": "https://cdn11.bigcommerce.com/s-3stx4pub31/imagens/stencil/1280x1280/products/4172/10899/manaos-cola-soda-2.25__03295.1654300480.jpg?c=2",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 161,
@@ -1625,7 +1729,8 @@
       "atributos": [],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://cdn11.bigcommerce.com/s-3stx4pub31/imagens/stencil/1280x1280/products/4172/10899/manaos-cola-soda-2.25__03295.1654300480.jpg?c=2"
+      "imagen": "https://cdn11.bigcommerce.com/s-3stx4pub31/imagens/stencil/1280x1280/products/4172/10899/manaos-cola-soda-2.25__03295.1654300480.jpg?c=2",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 162,
@@ -1641,7 +1746,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://organicmandya.com/cdn/shop/files/BananaPachabale.jpg?v=1721369894"
+      "imagen": "https://organicmandya.com/cdn/shop/files/BananaPachabale.jpg?v=1721369894",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 163,
@@ -1657,7 +1763,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://organicmandya.com/cdn/shop/files/BananaPachabale.jpg?v=1721369894"
+      "imagen": "https://organicmandya.com/cdn/shop/files/BananaPachabale.jpg?v=1721369894",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 164,
@@ -1673,7 +1780,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://organicmandya.com/cdn/shop/files/BananaPachabale.jpg?v=1721369894"
+      "imagen": "https://organicmandya.com/cdn/shop/files/BananaPachabale.jpg?v=1721369894",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 165,
@@ -1689,7 +1797,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://5aldia.cl/wp-content/uploads/2018/03/cebolla.jpg"
+      "imagen": "https://5aldia.cl/wp-content/uploads/2018/03/cebolla.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 166,
@@ -1705,7 +1814,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://5aldia.cl/wp-content/uploads/2018/03/cebolla.jpg"
+      "imagen": "https://5aldia.cl/wp-content/uploads/2018/03/cebolla.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 167,
@@ -1721,7 +1831,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://5aldia.cl/wp-content/uploads/2018/03/cebolla.jpg"
+      "imagen": "https://5aldia.cl/wp-content/uploads/2018/03/cebolla.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 168,
@@ -1734,7 +1845,8 @@
       "atributos": [],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://www.molinos.com.ar/wp-content/uploads/2022/09/Don-vicente-caserito.webp"
+      "imagen": "https://www.molinos.com.ar/wp-content/uploads/2022/09/Don-vicente-caserito.webp",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 169,
@@ -1747,7 +1859,8 @@
       "atributos": [],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://www.molinos.com.ar/wp-content/uploads/2022/09/Don-vicente-caserito.webp"
+      "imagen": "https://www.molinos.com.ar/wp-content/uploads/2022/09/Don-vicente-caserito.webp",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 170,
@@ -1760,7 +1873,8 @@
       "atributos": [],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://www.molinos.com.ar/wp-content/uploads/2022/09/Don-vicente-caserito.webp"
+      "imagen": "https://www.molinos.com.ar/wp-content/uploads/2022/09/Don-vicente-caserito.webp",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 171,
@@ -1776,7 +1890,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://organicmandya.com/cdn/shop/files/BananaPachabale.jpg?v=1721369894"
+      "imagen": "https://organicmandya.com/cdn/shop/files/BananaPachabale.jpg?v=1721369894",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 172,
@@ -1792,7 +1907,8 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://organicmandya.com/cdn/shop/files/BananaPachabale.jpg?v=1721369894"
+      "imagen": "https://organicmandya.com/cdn/shop/files/BananaPachabale.jpg?v=1721369894",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 173,
@@ -1808,7 +1924,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://organicmandya.com/cdn/shop/files/BananaPachabale.jpg?v=1721369894"
+      "imagen": "https://organicmandya.com/cdn/shop/files/BananaPachabale.jpg?v=1721369894",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 174,
@@ -1823,7 +1940,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/695328/T-Green-Hills-25-Saquitos-1-3388.jpg?v=637848777637100000"
+      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/695328/T-Green-Hills-25-Saquitos-1-3388.jpg?v=637848777637100000",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 175,
@@ -1838,7 +1956,8 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/695328/T-Green-Hills-25-Saquitos-1-3388.jpg?v=637848777637100000"
+      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/695328/T-Green-Hills-25-Saquitos-1-3388.jpg?v=637848777637100000",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 176,
@@ -1853,7 +1972,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/695328/T-Green-Hills-25-Saquitos-1-3388.jpg?v=637848777637100000"
+      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/695328/T-Green-Hills-25-Saquitos-1-3388.jpg?v=637848777637100000",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 177,
@@ -1866,7 +1986,8 @@
       "atributos": [],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://alberdisa.vteximg.com.br/arquivos/ids/178540-1000-1000/carne-molida.png?v=638518998477200000"
+      "imagen": "https://alberdisa.vteximg.com.br/arquivos/ids/178540-1000-1000/carne-molida.png?v=638518998477200000",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 178,
@@ -1879,7 +2000,8 @@
       "atributos": [],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://alberdisa.vteximg.com.br/arquivos/ids/178540-1000-1000/carne-molida.png?v=638518998477200000"
+      "imagen": "https://alberdisa.vteximg.com.br/arquivos/ids/178540-1000-1000/carne-molida.png?v=638518998477200000",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 179,
@@ -1892,7 +2014,8 @@
       "atributos": [],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://alberdisa.vteximg.com.br/arquivos/ids/178540-1000-1000/carne-molida.png?v=638518998477200000"
+      "imagen": "https://alberdisa.vteximg.com.br/arquivos/ids/178540-1000-1000/carne-molida.png?v=638518998477200000",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 180,
@@ -1908,7 +2031,8 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/800264-800-600?v=638826492568330000&width=800&height=600&aspect=true"
+      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/800264-800-600?v=638826492568330000&width=800&height=600&aspect=true",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 181,
@@ -1924,7 +2048,8 @@
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/800264-800-600?v=638826492568330000&width=800&height=600&aspect=true"
+      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/800264-800-600?v=638826492568330000&width=800&height=600&aspect=true",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 182,
@@ -1940,7 +2065,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/800264-800-600?v=638826492568330000&width=800&height=600&aspect=true"
+      "imagen": "https://jumboargentina.vtexassets.com/arquivos/ids/800264-800-600?v=638826492568330000&width=800&height=600&aspect=true",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 183,
@@ -1956,7 +2082,8 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://arjosimarprod.vtexassets.com/arquivos/ids/170247/Agua-Mineral-sin-Gas-Villavicencio-500-cc-1-5137.jpg?v=638567625645000000"
+      "imagen": "https://arjosimarprod.vtexassets.com/arquivos/ids/170247/Agua-Mineral-sin-Gas-Villavicencio-500-cc-1-5137.jpg?v=638567625645000000",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 184,
@@ -1972,7 +2099,8 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://arjosimarprod.vtexassets.com/arquivos/ids/170247/Agua-Mineral-sin-Gas-Villavicencio-500-cc-1-5137.jpg?v=638567625645000000"
+      "imagen": "https://arjosimarprod.vtexassets.com/arquivos/ids/170247/Agua-Mineral-sin-Gas-Villavicencio-500-cc-1-5137.jpg?v=638567625645000000",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "id": 185,
@@ -1988,7 +2116,8 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://arjosimarprod.vtexassets.com/arquivos/ids/170247/Agua-Mineral-sin-Gas-Villavicencio-500-cc-1-5137.jpg?v=638567625645000000"
+      "imagen": "https://arjosimarprod.vtexassets.com/arquivos/ids/170247/Agua-Mineral-sin-Gas-Villavicencio-500-cc-1-5137.jpg?v=638567625645000000",
+      "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "nombre": "Leche vegetal",
@@ -2005,7 +2134,8 @@
       "id": 186,
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://elbanquito.com.ar/wp-content/uploads/2024/12/NotCo-NotMilk-Sin-Azucar-x-1L.jpg"
+      "imagen": "https://elbanquito.com.ar/wp-content/uploads/2024/12/NotCo-NotMilk-Sin-Azucar-x-1L.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "nombre": "Leche vegetal",
@@ -2022,7 +2152,8 @@
       "id": 187,
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://elbanquito.com.ar/wp-content/uploads/2024/12/NotCo-NotMilk-Sin-Azucar-x-1L.jpg"
+      "imagen": "https://elbanquito.com.ar/wp-content/uploads/2024/12/NotCo-NotMilk-Sin-Azucar-x-1L.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "nombre": "Leche vegetal",
@@ -2039,7 +2170,8 @@
       "id": 188,
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://elbanquito.com.ar/wp-content/uploads/2024/12/NotCo-NotMilk-Sin-Azucar-x-1L.jpg"
+      "imagen": "https://elbanquito.com.ar/wp-content/uploads/2024/12/NotCo-NotMilk-Sin-Azucar-x-1L.jpg",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "nombre": "Hamburguesa vegetal",
@@ -2055,7 +2187,8 @@
       "id": 189,
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://cdn2.notco.com/uploads/products/_480x640_fit_center-center_85_none/336984/2311-NotBurger-AR-1.webp"
+      "imagen": "https://cdn2.notco.com/uploads/products/_480x640_fit_center-center_85_none/336984/2311-NotBurger-AR-1.webp",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "nombre": "Hamburguesa vegetal",
@@ -2071,7 +2204,8 @@
       "id": 190,
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://cdn2.notco.com/uploads/products/_480x640_fit_center-center_85_none/336984/2311-NotBurger-AR-1.webp"
+      "imagen": "https://cdn2.notco.com/uploads/products/_480x640_fit_center-center_85_none/336984/2311-NotBurger-AR-1.webp",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "nombre": "Hamburguesa vegetal",
@@ -2087,7 +2221,8 @@
       "id": 191,
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://cdn2.notco.com/uploads/products/_480x640_fit_center-center_85_none/336984/2311-NotBurger-AR-1.webp"
+      "imagen": "https://cdn2.notco.com/uploads/products/_480x640_fit_center-center_85_none/336984/2311-NotBurger-AR-1.webp",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "nombre": "Mayonesa vegetal",
@@ -2102,7 +2237,8 @@
       "id": 192,
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://cdn2.notco.com/uploads/products/_480x640_fit_center-center_85_none/324557/squeeze-original2_0.webp"
+      "imagen": "https://cdn2.notco.com/uploads/products/_480x640_fit_center-center_85_none/324557/squeeze-original2_0.webp",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "nombre": "Mayonesa vegetal",
@@ -2117,7 +2253,8 @@
       "id": 193,
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://cdn2.notco.com/uploads/products/_480x640_fit_center-center_85_none/324557/squeeze-original2_0.webp"
+      "imagen": "https://cdn2.notco.com/uploads/products/_480x640_fit_center-center_85_none/324557/squeeze-original2_0.webp",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "nombre": "Mayonesa vegetal",
@@ -2132,7 +2269,8 @@
       "id": 194,
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://cdn2.notco.com/uploads/products/_480x640_fit_center-center_85_none/324557/squeeze-original2_0.webp"
+      "imagen": "https://cdn2.notco.com/uploads/products/_480x640_fit_center-center_85_none/324557/squeeze-original2_0.webp",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "nombre": "Helado vegetal",
@@ -2148,7 +2286,8 @@
       "id": 195,
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://cdn2.notco.com/uploads/products/_480x640_fit_center-center_85_none/321615/NIC-ChocolateChips-330g.webp"
+      "imagen": "https://cdn2.notco.com/uploads/products/_480x640_fit_center-center_85_none/321615/NIC-ChocolateChips-330g.webp",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "nombre": "Helado vegetal",
@@ -2164,7 +2303,8 @@
       "id": 196,
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://cdn2.notco.com/uploads/products/_480x640_fit_center-center_85_none/321615/NIC-ChocolateChips-330g.webp"
+      "imagen": "https://cdn2.notco.com/uploads/products/_480x640_fit_center-center_85_none/321615/NIC-ChocolateChips-330g.webp",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "nombre": "Helado vegetal",
@@ -2180,7 +2320,8 @@
       "id": 197,
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://cdn2.notco.com/uploads/products/_480x640_fit_center-center_85_none/321615/NIC-ChocolateChips-330g.webp"
+      "imagen": "https://cdn2.notco.com/uploads/products/_480x640_fit_center-center_85_none/321615/NIC-ChocolateChips-330g.webp",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "nombre": "Queso vegetal",
@@ -2196,7 +2337,8 @@
       "id": 198,
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/339708/Notcheese-Dambo-Notco-140-Gr-_1.jpg?v=638689303577670000"
+      "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/339708/Notcheese-Dambo-Notco-140-Gr-_1.jpg?v=638689303577670000",
+      "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "nombre": "Queso vegetal",
@@ -2212,7 +2354,8 @@
       "id": 199,
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/339708/Notcheese-Dambo-Notco-140-Gr-_1.jpg?v=638689303577670000"
+      "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/339708/Notcheese-Dambo-Notco-140-Gr-_1.jpg?v=638689303577670000",
+      "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
       "nombre": "Queso vegetal",
@@ -2228,7 +2371,8 @@
       "id": 200,
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/339708/Notcheese-Dambo-Notco-140-Gr-_1.jpg?v=638689303577670000"
+      "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/339708/Notcheese-Dambo-Notco-140-Gr-_1.jpg?v=638689303577670000",
+      "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     }
   ]
 }
