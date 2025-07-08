@@ -1,4 +1,5 @@
- [
+{
+  "productos": [
     {
       "id": 1,
       "nombre": "Carne picada",
@@ -104,7 +105,8 @@
       "codigo_barra": "779857947863",
       "tipo": "",
       "atributos": [
-        "sin TACC"
+        "sin TACC",
+        "vegano"
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
@@ -216,7 +218,7 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://www.casa-segal.com/wp-content/uploads/2024/12/manaos-cola-3-litros-ofertas-casa-segal-supermercado-mendoza.jpg",
+      "imagen": "https://tienda.pasosonline.com.ar/wp-content/uploads/2023/06/imagen-removebg-preview-18.png",
       "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
@@ -277,7 +279,8 @@
       "codigo_barra": "779715618357",
       "tipo": "descremada",
       "atributos": [
-        "apto diabéticos"
+        "apto diabéticos",
+        "vegano"
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
@@ -888,7 +891,8 @@
       "codigo_barra": "779857947863",
       "tipo": "",
       "atributos": [
-        "sin TACC"
+        "sin TACC",
+        "vegano"
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
@@ -1061,7 +1065,8 @@
       "codigo_barra": "779715618357",
       "tipo": "descremada",
       "atributos": [
-        "apto diabéticos"
+        "apto diabéticos",
+        "vegano"
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
@@ -2368,9 +2373,7 @@
       "categoria_super": "supermercado",
       "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/339708/Notcheese-Dambo-Notco-140-Gr-_1.jpg?v=638689303577670000",
       "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
-    },
-    [
-  {
+    }, {
     "id": 201,
     "nombre": "Galletitas de arroz",
     "marca": "Dos Hermanos",
@@ -2496,6 +2499,5 @@
     "categoria_super": "supermercado",
     "imagen": "https://acdn-us.mitiendanube.com/stores/313/507/products/pizza-b1648d264adf692d8c17060398190516-640-0.jpg"
   }
-]
-
   ]
+}
