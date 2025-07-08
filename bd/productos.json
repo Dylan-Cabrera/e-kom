@@ -1,5 +1,4 @@
-{
-  "productos": [
+ [
     {
       "id": 1,
       "nombre": "Carne picada",
@@ -105,12 +104,11 @@
       "codigo_barra": "779857947863",
       "tipo": "",
       "atributos": [
-        "sin TACC",
-        "vegano"
+        "sin TACC"
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://www.paladini.com.ar/assets/img/productos/productos/salchicha-viena-x18.pngg",
+      "imagen": "https://arcordiezb2c.vteximg.com.br/arquivos/ids/180299/Salchichas-Paladini-6-Un-1-251.jpg?v=638350761663770000",
       "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
@@ -218,7 +216,7 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://tienda.pasosonline.com.ar/wp-content/uploads/2023/06/imagen-removebg-preview-18.png",
+      "imagen": "https://www.casa-segal.com/wp-content/uploads/2024/12/manaos-cola-3-litros-ofertas-casa-segal-supermercado-mendoza.jpg",
       "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
@@ -279,8 +277,7 @@
       "codigo_barra": "779715618357",
       "tipo": "descremada",
       "atributos": [
-        "apto diabéticos",
-        "vegano"
+        "apto diabéticos"
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
@@ -531,7 +528,7 @@
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
-      "imagen": "https://www.recetasamc.info/sites/default/files/styles/max_width_1000/public/migrate/ingredient-wiki/1524656366-amc-wiki-id2706-imagen40.png?itok=4fcdsqkp",
+      "imagen": "https://kitchenacademy.es/wp-content/uploads/Naranja.jpg",
       "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
@@ -891,12 +888,11 @@
       "codigo_barra": "779857947863",
       "tipo": "",
       "atributos": [
-        "sin TACC",
-        "vegano"
+        "sin TACC"
       ],
       "supermercado": "APA",
       "categoria_super": "supermercado",
-      "imagen": "https://www.paladini.com.ar/assets/img/productos/productos/salchicha-viena-x18.pngg",
+      "imagen": "https://arcordiezb2c.vteximg.com.br/arquivos/ids/180299/Salchichas-Paladini-6-Un-1-251.jpg?v=638350761663770000",
       "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
@@ -1065,8 +1061,7 @@
       "codigo_barra": "779715618357",
       "tipo": "descremada",
       "atributos": [
-        "apto diabéticos",
-        "vegano"
+        "apto diabéticos"
       ],
       "supermercado": "Carrefour",
       "categoria_super": "supermercado",
@@ -1439,7 +1434,7 @@
       ],
       "supermercado": "ChangoMas",
       "categoria_super": "supermercado",
-      "imagen": "https://www.recetasamc.info/sites/default/files/styles/max_width_1000/public/migrate/ingredient-wiki/1524656366-amc-wiki-id2706-imagen40.png?itok=4fcdsqkp",
+      "imagen": "https://kitchenacademy.es/wp-content/uploads/Naranja.jpg",
       "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
@@ -1455,7 +1450,7 @@
       ],
       "supermercado": "Caceres",
       "categoria_super": "supermercado",
-      "imagen": "https://www.recetasamc.info/sites/default/files/styles/max_width_1000/public/migrate/ingredient-wiki/1524656366-amc-wiki-id2706-imagen40.png?itok=4fcdsqkp",
+      "imagen": "https://kitchenacademy.es/wp-content/uploads/Naranja.jpg",
       "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
     },
     {
@@ -2373,6 +2368,134 @@
       "categoria_super": "supermercado",
       "imagen": "https://ardiaprod.vtexassets.com/arquivos/ids/339708/Notcheese-Dambo-Notco-140-Gr-_1.jpg?v=638689303577670000",
       "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D"
-    }
+    },
+    [
+  {
+    "id": 201,
+    "nombre": "Galletitas de arroz",
+    "marca": "Dos Hermanos",
+    "precio": 870,
+    "categoria": "snacks",
+    "codigo_barra": "7798215653124",
+    "tipo": "",
+    "supermercado": "APA",
+    "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D",
+    "atributos": ["sin TACC"],
+    "categoria_super": "supermercado",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdwau5NSa_Ngaw75Gz09s8g3uFpa65AWkS1w&s"
+  },
+  {
+    "id": 202,
+    "nombre": "Premezcla sin gluten",
+    "marca": "Santa Maria",
+    "precio": 1890,
+    "categoria": "harinas",
+    "codigo_barra": "8008698005590",
+    "tipo": "",
+    "supermercado": "Carrefour",
+    "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D",
+    "atributos": ["sin TACC"],
+    "categoria_super": "supermercado",
+    "imagen": "https://cdn.newgarden.com.ar/media/catalog/product/cache/dda7253a1a2f6711745de410175d10f8/p/r/premezcla-panaderia-y-reposteria-sin-tacc-santa-maria-1-kg.jpg"
+  },
+  {
+    "id": 203,
+    "nombre": "Pan lactal sin gluten",
+    "marca": "Schar",
+    "precio": 1650,
+    "categoria": "panificados",
+    "codigo_barra": "7791234567890",
+    "tipo": "lactal",
+    "supermercado": "Caceres",
+    "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D",
+    "atributos": ["sin TACC"],
+    "categoria_super": "supermercado",
+    "imagen": "https://cdn.newgarden.com.ar/media/catalog/product/cache/dda7253a1a2f6711745de410175d10f8/p/r/premezcla-panaderia-y-reposteria-sin-tacc-santa-maria-1-kg.jpg"
+  },
+  {
+    "id": 204,
+    "nombre": "Galletitas dulces sin TACC",
+    "marca": "Noglut",
+    "precio": 1050,
+    "categoria": "snacks",
+    "codigo_barra": "7793214789012",
+    "tipo": "vainilla",
+    "supermercado": "ChangoMas",
+    "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D",
+    "atributos": ["sin TACC"],
+    "categoria_super": "supermercado",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsyhelLPbnMWDELx2qloDebR095SWD--9cOw&s"
+  },
+  {
+    "id": 205,
+    "nombre": "Fideos de arroz",
+    "marca": "Soyarroz",
+    "precio": 940,
+    "categoria": "pastas",
+    "codigo_barra": "7798123567834",
+    "tipo": "sin gluten",
+    "supermercado": "Carrefour",
+    "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D",
+    "atributos": ["sin TACC"],
+    "categoria_super": "supermercado",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsyhelLPbnMWDELx2qloDebR095SWD--9cOw&s"
+  },
+  {
+    "id": 207,
+    "nombre": "Galletas saladas sin gluten",
+    "marca": "Schär",
+    "precio": 1300,
+    "categoria": "snacks",
+    "codigo_barra": "8008698004470",
+    "tipo": "",
+    "supermercado": "Caceres",
+    "url_supermercado": "https://www.google.com/maps/search/supermercado+caceres+ubicaci%C3%B3n/@-26.222065,-58.2522329,12z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D",
+    "atributos": ["sin TACC"],
+    "categoria_super": "supermercado",
+    "imagen": "https://www.schaer.com/sites/default/files/styles/packaging/public/2025-03/pfp0232-09_front_crackers_210g.png.jpg?itok=yyIU6Rgg"
+  },
+  {
+    "id": 208,
+    "nombre": "Harina de arroz",
+    "marca": "Imax",
+    "precio": 980,
+    "categoria": "harinas",
+    "codigo_barra": "7798215651234",
+    "tipo": "",
+    "supermercado": "APA",
+    "url_supermercado": "https://www.google.com/maps/search/apa/@-26.221663,-58.2522334,12z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D",
+    "atributos": ["sin TACC"],
+    "categoria_super": "supermercado",
+    "imagen": "https://dimaxalimentos.com.ar/wp-content/uploads/2019/02/H.-Arroz.png"
+  },
+  {
+    "id": 1009,
+    "nombre": "Cereal sin gluten",
+    "marca": "arcor",
+    "precio": 1150,
+    "categoria": "desayuno",
+    "codigo_barra": "7794523123012",
+    "tipo": "",
+    "supermercado": "Carrefour",
+    "url_supermercado": "https://www.google.com/maps/search/carrefour+ubicaci%C3%B3n/@-26.1896433,-58.2110488,13z/data=!3m1!4b1?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D",
+    "atributos": ["sin TACC"],
+    "categoria_super": "supermercado",
+    "imagen": "https://arcorencasa.com/wp-content/uploads/2024/10/20241009-14091.webp"
+  },
+  {
+    "id": 210,
+    "nombre": "Salsa lista sin TACC",
+    "marca": "La Campagnola",
+    "precio": 870,
+    "categoria": "despensa",
+    "codigo_barra": "7791982567810",
+    "tipo": "",
+    "supermercado": "ChangoMas",
+    "url_supermercado": "https://www.google.com/maps/search/ChangoMas/@-26.189739,-58.2110488,13.75z?entry=ttu&g_ep=EgoyMDI1MDYzMC4wIKXMDSoASAFQAw%3D%3D",
+    "atributos": ["sin TACC"],
+    "categoria_super": "supermercado",
+    "imagen": "https://acdn-us.mitiendanube.com/stores/313/507/products/pizza-b1648d264adf692d8c17060398190516-640-0.jpg"
+  }
+]
+
   ]
-}
